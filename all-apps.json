@@ -755,6 +755,51 @@
           "minOSVersion": "15.1"
         }
       ]
+    },
+    {
+      "name": "Pikapika",
+      "bundleIdentifier": "opensource.pikapika",
+      "developerName": "ComicSparks",
+      "subtitle": "跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux",
+      "localizedDescription": "Pikapika 是一个易用、无广告的跨平台漫画客户端，支持漫画搜索、分类浏览、阅读、下载以及导入导出。",
+      "iconURL": "https://raw.githubusercontent.com/ComicSparks/pikapika/master/images/ic.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ComicSparks/pikapika/master/images/categories_screen.png",
+        "https://raw.githubusercontent.com/ComicSparks/pikapika/master/images/comic_list.png",
+        "https://raw.githubusercontent.com/ComicSparks/pikapika/master/images/reader.png"
+      ],
+      "tintColor": "#F06B98",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.8.21",
+          "buildVersion": "45",
+          "date": "2026-07-20T07:14:22Z",
+          "downloadURL": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.21/pikapika-v1.8.21-ios_nosign-flutter_3.13.9.ipa",
+          "size": 17906138,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "HaKa Comic",
+      "bundleIdentifier": "com.github.raoxwup.hakacomic",
+      "developerName": "raoxwup",
+      "subtitle": "第三方哗咔漫画跨平台客户端",
+      "localizedDescription": "第三方哗咔漫画跨平台客户端，支持 Android、iOS、macOS、Windows 和 Linux。",
+      "iconURL": "https://raw.githubusercontent.com/raoxwup/haka_comic/main/assets/icons/ios/AppIcon.png",
+      "tintColor": "#F54F32",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.2.7",
+          "buildVersion": "1.2.7",
+          "date": "2026-08-14T07:45:22Z",
+          "downloadURL": "https://github.com/raoxwup/haka_comic/releases/download/1.2.7/no-codesign-ios-v1.2.7.ipa",
+          "size": 13182030,
+          "minOSVersion": "13.0"
+        }
+      ]
     }
   ],
   "news": [

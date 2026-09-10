@@ -11,6 +11,94 @@ SPEC.loader.exec_module(build_source)
 
 
 class BuildSourceTests(unittest.TestCase):
+    def test_github_release_app_selects_latest_matching_stable_ipa(self):
+        definition = {
+            "name": "Example",
+            "bundleIdentifier": "com.example.app",
+            "developerName": "Example Dev",
+            "subtitle": "Example",
+            "minOSVersion": "13.0",
+            "github": {
+                "repo": "owner/example",
+                "assetPattern": ".*ios.*\\.ipa$",
+                "includePrereleases": False,
+                "stripTagPrefix": "v",
+            },
+        }
+        releases = [
+            {
+                "tag_name": "v2.0.0-beta.1",
+                "published_at": "2026-09-10T00:00:00Z",
+                "prerelease": True,
+                "assets": [
+                    {
+                        "name": "Example-ios.ipa",
+                        "browser_download_url": "https://example.com/beta.ipa",
+                        "size": 200,
+                    }
+                ],
+            },
+            {
+                "tag_name": "v1.2.0",
+                "published_at": "2026-09-01T00:00:00Z",
+                "prerelease": False,
+                "body": "Release notes",
+                "assets": [
+                    {
+                        "name": "Example-ios.ipa",
+                        "browser_download_url": "https://example.com/1.2.0.ipa",
+                        "size": 100,
+                    },
+                    {
+                        "name": "Example-macos.zip",
+                        "browser_download_url": "https://example.com/macos.zip",
+                        "size": 300,
+                    },
+                ],
+            },
+        ]
+
+        result = build_source.build_github_release_app(definition, releases)
+
+        self.assertEqual(result["versions"][0]["version"], "1.2.0")
+        self.assertEqual(
+            result["versions"][0]["downloadURL"],
+            "https://example.com/1.2.0.ipa",
+        )
+        self.assertEqual(result["versions"][0]["minOSVersion"], "13.0")
+        self.assertEqual(result["versions"][0]["size"], 100)
+        self.assertNotIn("github", result)
+
+    def test_github_release_app_can_include_prerelease(self):
+        definition = {
+            "name": "Nightly",
+            "bundleIdentifier": "com.example.nightly",
+            "minOSVersion": "15.0",
+            "github": {
+                "repo": "owner/nightly",
+                "assetPattern": "\\.ipa$",
+                "includePrereleases": True,
+                "stripTagPrefix": "",
+            },
+        }
+        releases = [
+            {
+                "tag_name": "nightly-20260910",
+                "published_at": "2026-09-10T00:00:00Z",
+                "prerelease": True,
+                "assets": [
+                    {
+                        "name": "nightly.ipa",
+                        "browser_download_url": "https://example.com/nightly.ipa",
+                    }
+                ],
+            }
+        ]
+
+        result = build_source.build_github_release_app(definition, releases)
+
+        self.assertEqual(result["versions"][0]["version"], "nightly-20260910")
+
     def test_extra_app_replaces_same_bundle_identifier(self):
         upstream = [
             {

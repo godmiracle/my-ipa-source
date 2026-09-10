@@ -16,7 +16,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v5
 
-      - name: Refresh upstream and build source
+      - name: Refresh AltGallery and GitHub Releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/build_source.py --refresh-upstream
 
       - name: Update README supported-app list
@@ -24,7 +26,7 @@ jobs:
 
       - name: Commit generated source when changed
         run: |
-          git add README.md all-apps.json data/upstream-all-apps.json apps/extra-apps.json config/source.json
+          git add README.md all-apps.json data/upstream-all-apps.json data/github-releases.json apps/extra-apps.json apps/github-releases.json config/source.json scripts/ tests/
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

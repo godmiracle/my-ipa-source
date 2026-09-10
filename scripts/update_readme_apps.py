@@ -30,7 +30,7 @@ def render_app_list(source: dict[str, Any]) -> str:
         raise ValueError("all-apps.json field 'apps' must be an array")
 
     lines = [
-        f"当前源收录 **{len(apps)}** 个应用；版本信息来自 AltGallery 当前生成源。",
+        f"当前源收录 **{len(apps)}** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。",
         "",
         "| 应用 | 简介 | 当前版本 | 最低系统 |",
         "| --- | --- | --- | --- |",

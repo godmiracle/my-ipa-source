@@ -3,7 +3,7 @@
     "name": "Godmiracle LiveContainer 源",
     "identifier": "com.godmiracle.my-livecontainer-source",
     "subtitle": "godmiracle 的个人 IPA 应用源",
-    "description": "由 godmiracle 维护，从 AltGallery 同步应用并支持添加自定义 IPA 的个人 AltStore 源。",
+    "description": "由 godmiracle 维护，从 AltGallery 同步应用，并通过 GitHub Releases 自动更新个人配置应用的 IPA 源。",
     "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/assets/icon.png",
     "website": "https://github.com/godmiracle/my-ipa-source",
     "tintColor": "#3B82F6"
@@ -17,5 +17,9 @@
     "excludeBundleIdentifiers": []
   },
   "extras": "apps/extra-apps.json",
+  "githubReleases": {
+    "config": "apps/github-releases.json",
+    "cache": "data/github-releases.json"
+  },
   "output": "all-apps.json"
 }

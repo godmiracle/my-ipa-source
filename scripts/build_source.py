@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """Build a personal AltStore source for LiveContainer.
 
-The generated all-apps.json is composed from a cached upstream source and
-user-maintained extra app/news entries. The script intentionally uses only the
-Python standard library so it can run in GitHub Actions without dependencies.
+The generated all-apps.json is composed from a cached upstream source,
+GitHub-Releases-managed apps, and user-maintained extra app/news entries. The
+script intentionally uses only the Python standard library so it can run in
+GitHub Actions without dependencies.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import os
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -49,28 +52,323 @@ def resolve_config_path(config_value: str) -> Path:
     return path.resolve()
 
 
-def fetch_json(url: str) -> Any:
+def fetch_json(url: str, headers: dict[str, str] | None = None) -> Any:
+    request_headers = {
+        "Accept": "application/json",
+        "User-Agent": "personal-livecontainer-source/1.0",
+    }
+    if headers:
+        request_headers.update(headers)
     request = Request(
         url,
-        headers={
-            "Accept": "application/json",
-            "User-Agent": "personal-livecontainer-source/1.0",
-        },
+        headers=request_headers,
     )
     try:
         with urlopen(request, timeout=60) as response:
             payload = response.read()
     except (HTTPError, URLError, TimeoutError) as exc:
-        raise SourceError(f"Unable to fetch upstream source {url}: {exc}") from exc
+        raise SourceError(f"Unable to fetch JSON {url}: {exc}") from exc
 
     try:
         return json.loads(payload.decode("utf-8"))
     except (UnicodeDecodeError, json.JSONDecodeError) as exc:
-        raise SourceError(f"Upstream response is not valid UTF-8 JSON: {url}") from exc
+        raise SourceError(f"Response is not valid UTF-8 JSON: {url}") from exc
 
 
 def app_identity(app: dict[str, Any]) -> str:
     return str(app.get("bundleIdentifier", ""))
+
+
+def load_github_release_definitions(path: Path) -> list[dict[str, Any]]:
+    """Load and validate app definitions backed by GitHub Releases."""
+    value = load_json(path)
+    if isinstance(value, list):
+        definitions = value
+    elif isinstance(value, dict):
+        definitions = value.get("apps", [])
+    else:
+        raise SourceError(
+            "GitHub Releases config must contain an array or an object with an apps array"
+        )
+    if not isinstance(definitions, list):
+        raise SourceError("GitHub Releases config field 'apps' must be an array")
+
+    for index, definition in enumerate(definitions):
+        if not isinstance(definition, dict):
+            raise SourceError(f"githubReleases.apps[{index}] must be an object")
+        for key in ("name", "bundleIdentifier", "github"):
+            if key not in definition:
+                raise SourceError(f"githubReleases.apps[{index}] is missing {key}")
+
+        github = definition["github"]
+        if not isinstance(github, dict):
+            raise SourceError(f"githubReleases.apps[{index}].github must be an object")
+        repo = github.get("repo")
+        if (
+            not isinstance(repo, str)
+            or not repo.strip()
+            or not re.fullmatch(r"[^/\s]+/[^/\s]+", repo.strip())
+        ):
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.repo must use OWNER/REPOSITORY format"
+            )
+        asset_pattern = github.get("assetPattern")
+        if not isinstance(asset_pattern, str) or not asset_pattern:
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.assetPattern must be a non-empty string"
+            )
+        try:
+            re.compile(asset_pattern)
+        except re.error as exc:
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.assetPattern is invalid: {exc}"
+            ) from exc
+
+        include_prereleases = github.get("includePrereleases", False)
+        if not isinstance(include_prereleases, bool):
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.includePrereleases must be boolean"
+            )
+        strip_tag_prefix = github.get("stripTagPrefix", "v")
+        if not isinstance(strip_tag_prefix, str):
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.stripTagPrefix must be a string"
+            )
+        max_versions = github.get("maxVersions", 1)
+        if (
+            not isinstance(max_versions, int)
+            or isinstance(max_versions, bool)
+            or max_versions < 1
+        ):
+            raise SourceError(
+                f"githubReleases.apps[{index}].github.maxVersions must be a positive integer"
+            )
+
+        bundle = definition.get("bundleIdentifier")
+        if not isinstance(bundle, str) or not bundle.strip():
+            raise SourceError(
+                f"githubReleases.apps[{index}].bundleIdentifier must be a non-empty string"
+            )
+        min_os_version = definition.get("minOSVersion")
+        if min_os_version is not None and not isinstance(min_os_version, str):
+            raise SourceError(
+                f"githubReleases.apps[{index}].minOSVersion must be a string when present"
+            )
+    return definitions
+
+
+def github_releases_url(repo: str) -> str:
+    return f"https://api.github.com/repos/{repo}/releases?per_page=100"
+
+
+def fetch_github_releases(repo: str) -> list[dict[str, Any]]:
+    """Fetch releases for a public GitHub repository."""
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    value = fetch_json(github_releases_url(repo), headers=headers)
+    if not isinstance(value, list):
+        raise SourceError(f"GitHub Releases response for {repo} must be an array")
+    for index, release in enumerate(value):
+        if not isinstance(release, dict):
+            raise SourceError(f"GitHub release {repo}[{index}] must be an object")
+    return value
+
+
+def load_github_release_cache(path: Path) -> dict[str, Any]:
+    value = load_json(path)
+    if not isinstance(value, dict):
+        raise SourceError("GitHub Releases cache root must be an object")
+    repositories = value.get("repositories")
+    if not isinstance(repositories, dict):
+        raise SourceError("GitHub Releases cache field 'repositories' must be an object")
+    return value
+
+
+def refresh_github_release_cache(
+    definitions: list[dict[str, Any]],
+    cache_path: Path,
+    write_output: bool,
+) -> dict[str, Any]:
+    """Fetch each configured repository once and cache only usable releases."""
+    repositories: dict[str, Any] = {}
+    fetched: dict[str, list[dict[str, Any]]] = {}
+    for definition in definitions:
+        github = definition["github"]
+        repo = str(github["repo"]).strip()
+        if repo not in fetched:
+            fetched[repo] = fetch_github_releases(repo)
+
+        candidates = matching_github_release_assets(definition, fetched[repo])
+        max_versions = int(github.get("maxVersions", 1))
+        selected: dict[str, dict[str, Any]] = {
+            release_cache_identity(release): compact_github_release(release)
+            for release, _asset in candidates[:max_versions]
+        }
+        if not selected:
+            pattern = github["assetPattern"]
+            raise SourceError(
+                f"No matching GitHub Release IPA found for {repo} with assetPattern {pattern!r}"
+            )
+        existing = repositories.setdefault(repo, {"releases": {}})
+        cached_by_identity = existing["releases"]
+        cached_by_identity.update(selected)
+
+    for repository in repositories.values():
+        repository["releases"] = list(repository["releases"].values())
+
+    cache: dict[str, Any] = {"repositories": repositories}
+    if write_output:
+        write_json(cache_path, cache)
+    return cache
+
+
+def cached_releases(cache: dict[str, Any], repo: str) -> list[dict[str, Any]]:
+    repositories = cache["repositories"]
+    entry = repositories.get(repo)
+    if not isinstance(entry, dict):
+        raise SourceError(
+            f"GitHub Releases cache has no entry for {repo}; run with --refresh-upstream"
+        )
+    releases = entry.get("releases")
+    if not isinstance(releases, list):
+        raise SourceError(f"GitHub Releases cache entry for {repo} must contain releases")
+    for index, release in enumerate(releases):
+        if not isinstance(release, dict):
+            raise SourceError(f"GitHub release cache {repo}[{index}] must be an object")
+    return releases
+
+
+def release_sort_key(release: dict[str, Any]) -> str:
+    return str(release.get("published_at") or release.get("created_at") or "")
+
+
+def release_cache_identity(release: dict[str, Any]) -> str:
+    return str(release.get("id") or release.get("tag_name") or release_sort_key(release))
+
+
+def compact_github_release(release: dict[str, Any]) -> dict[str, Any]:
+    """Keep the cache small while retaining fields needed to rebuild the source."""
+    compact: dict[str, Any] = {}
+    for key in ("id", "tag_name", "published_at", "created_at", "prerelease", "draft", "body"):
+        if key in release:
+            compact[key] = release[key]
+
+    assets = release.get("assets", [])
+    compact["assets"] = []
+    if isinstance(assets, list):
+        for asset in assets:
+            if not isinstance(asset, dict):
+                continue
+            compact_asset = {
+                key: asset[key]
+                for key in ("name", "browser_download_url", "size")
+                if key in asset
+            }
+            compact["assets"].append(compact_asset)
+    return compact
+
+
+def matching_github_release_assets(
+    definition: dict[str, Any], releases: list[dict[str, Any]]
+) -> list[tuple[dict[str, Any], dict[str, Any]]]:
+    """Return releases and their first matching asset, newest first."""
+    github = definition["github"]
+    asset_pattern = re.compile(str(github["assetPattern"]))
+    include_prereleases = bool(github.get("includePrereleases", False))
+
+    candidates: list[tuple[dict[str, Any], dict[str, Any]]] = []
+    for release in sorted(releases, key=release_sort_key, reverse=True):
+        if release.get("draft") is True:
+            continue
+        if release.get("prerelease") is True and not include_prereleases:
+            continue
+
+        tag_name = str(release.get("tag_name") or "").strip()
+        if not tag_name:
+            continue
+        assets = release.get("assets", [])
+        if not isinstance(assets, list):
+            continue
+        matching_assets = [
+            asset
+            for asset in assets
+            if isinstance(asset, dict)
+            and asset_pattern.search(str(asset.get("name") or ""))
+        ]
+        if matching_assets:
+            candidates.append((release, matching_assets[0]))
+    return candidates
+
+
+def build_github_release_app(
+    definition: dict[str, Any], releases: list[dict[str, Any]]
+) -> dict[str, Any]:
+    """Turn the newest matching GitHub release assets into an AltStore app."""
+    github = definition["github"]
+    repo = str(github["repo"]).strip()
+    strip_tag_prefix = str(github.get("stripTagPrefix", "v"))
+    max_versions = int(github.get("maxVersions", 1))
+
+    versions: list[dict[str, Any]] = []
+    candidates = matching_github_release_assets(definition, releases)
+    for release, asset in candidates[:max_versions]:
+        tag_name = str(release.get("tag_name") or "").strip()
+        download_url = asset.get("browser_download_url")
+        if not isinstance(download_url, str) or not download_url.startswith("https://"):
+            raise SourceError(
+                f"GitHub release asset for {repo} does not have an HTTPS download URL"
+            )
+
+        version_name = tag_name
+        if strip_tag_prefix and version_name.startswith(strip_tag_prefix):
+            version_name = version_name[len(strip_tag_prefix) :]
+        if not version_name:
+            raise SourceError(f"GitHub release tag for {repo} produced an empty version")
+
+        version: dict[str, Any] = {
+            "version": version_name,
+            "downloadURL": download_url,
+        }
+        release_date = release.get("published_at") or release.get("created_at")
+        if isinstance(release_date, str) and release_date:
+            version["date"] = release_date
+        release_body = release.get("body")
+        if isinstance(release_body, str) and release_body.strip():
+            version["localizedDescription"] = release_body
+        asset_size = asset.get("size")
+        if isinstance(asset_size, int) and not isinstance(asset_size, bool):
+            version["size"] = asset_size
+
+        min_os_version = definition.get("minOSVersion")
+        if isinstance(min_os_version, str) and min_os_version.strip():
+            version["minOSVersion"] = min_os_version
+        build_version = definition.get("buildVersion")
+        if isinstance(build_version, str) and build_version.strip():
+            version["buildVersion"] = build_version
+
+        versions.append(version)
+        if len(versions) >= max_versions:
+            break
+
+    if not versions:
+        pattern = github["assetPattern"]
+        raise SourceError(
+            f"No matching GitHub Release IPA found for {repo} with assetPattern {pattern!r}"
+        )
+
+    app = {
+        key: value
+        for key, value in definition.items()
+        if key not in {"github", "minOSVersion", "buildVersion"}
+    }
+    app["versions"] = versions
+    return app
 
 
 def selected_upstream_apps(
@@ -254,7 +552,37 @@ def build_source(
     if not isinstance(extra_apps, list) or not isinstance(extra_news, list):
         raise SourceError("Extra apps file fields 'apps' and 'news' must be arrays")
 
+    github_release_apps: list[dict[str, Any]] = []
+    github_releases_config = config.get("githubReleases")
+    if github_releases_config is not None:
+        if not isinstance(github_releases_config, dict):
+            raise SourceError("config/source.json field 'githubReleases' must be an object")
+        definitions_path = resolve_config_path(str(github_releases_config["config"]))
+        cache_path = resolve_config_path(str(github_releases_config["cache"]))
+        definitions = load_github_release_definitions(definitions_path)
+        if refresh_upstream:
+            github_cache = refresh_github_release_cache(
+                definitions,
+                cache_path,
+                write_output=write_output,
+            )
+        elif definitions:
+            github_cache = load_github_release_cache(cache_path)
+        else:
+            github_cache = {"repositories": {}}
+
+        for definition in definitions:
+            github = definition["github"]
+            repo = str(github["repo"]).strip()
+            github_release_apps.append(
+                build_github_release_app(
+                    definition,
+                    cached_releases(github_cache, repo),
+                )
+            )
+
     apps = selected_upstream_apps(upstream, upstream_config)
+    apps = merge_by_bundle(apps, github_release_apps)
     apps = merge_by_bundle(apps, extra_apps)
     included_bundles = {app_identity(app) for app in apps}
 
@@ -284,8 +612,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--refresh-upstream",
+        "--refresh",
         action="store_true",
-        help="Fetch the latest AltGallery source before building.",
+        help="Fetch the latest AltGallery source and configured GitHub Releases before building.",
     )
     parser.add_argument(
         "--check",

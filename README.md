@@ -2,7 +2,7 @@
 
 这是由 **godmiracle** 维护的个人 AltStore 源，面向 LiveContainer、AltStore、
 SideStore 和 Feather。源内容以 [AltGallery](https://github.com/bebound/AltGallery)
-为上游，并保留了添加自定义 IPA 的入口。
+为上游，并支持通过 GitHub Releases 自动同步个人配置的 IPA 应用。
 
 ## 源地址
 
@@ -22,11 +22,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 
 ## 当前支持的应用
 
-以下列表由 `all-apps.json` 自动生成；应用版本和
-列表会随着 AltGallery 上游同步而变化。
+以下列表由 `all-apps.json` 自动生成；应用版本和列表会随着 AltGallery 上游及
+已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **33** 个应用；版本信息来自 AltGallery 当前生成源。
+当前源收录 **33** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -67,7 +67,49 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 
 ## 添加其他应用
 
-编辑 `apps/extra-apps.json`，将应用对象加入 `apps` 数组。至少需要提供：
+### GitHub Releases 自动同步（推荐）
+
+有 GitHub Releases 的应用添加到 `apps/github-releases.json`。脚本会读取仓库的
+Releases，按 `assetPattern` 匹配 IPA，并自动生成最新版本的 `downloadURL`、版本号、
+发布日期和文件大小。
+
+配置示例：
+
+```json
+{
+  "name": "Example App",
+  "bundleIdentifier": "com.example.app",
+  "developerName": "Developer",
+  "subtitle": "Short description",
+  "localizedDescription": "Full description",
+  "iconURL": "https://HOST/icon.png",
+  "minOSVersion": "15.0",
+  "github": {
+    "repo": "OWNER/REPOSITORY",
+    "assetPattern": ".*ios.*\\.ipa$",
+    "includePrereleases": false,
+    "stripTagPrefix": "v"
+  }
+}
+```
+
+字段说明：
+
+1. `repo` 使用 `OWNER/REPOSITORY` 格式。
+2. `assetPattern` 是匹配 GitHub Release 附件文件名的正则表达式。
+3. `includePrereleases` 为 `true` 时会考虑预发布版本，适合 nightly/beta 仓库。
+4. `stripTagPrefix` 用于去掉版本标签前缀，例如将 `v1.2.3` 生成为 `1.2.3`。
+5. `minOSVersion` 会写入生成版本；如果不同版本的最低系统不同，可在脚本中扩展版本元数据。
+
+当前已配置的自动同步应用：
+
+- `ComicSparks/pikapika`：匹配 `ios_nosign` IPA。
+- `raoxwup/haka_comic`：匹配 `no-codesign-ios` IPA。
+
+### 固定 IPA 或非 GitHub Releases 应用
+
+没有标准 GitHub Releases 的应用继续编辑 `apps/extra-apps.json`，将完整应用对象加入
+`apps` 数组。至少需要提供：
 
 ```json
 {
@@ -97,7 +139,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 4. 添加后执行：
 
 ```bash
-python3 scripts/build_source.py
+python3 scripts/build_source.py --refresh-upstream
 python3 scripts/update_readme_apps.py
 python3 -m unittest discover -s tests -v
 ```
@@ -105,14 +147,14 @@ python3 -m unittest discover -s tests -v
 然后提交并推送：
 
 ```bash
-git add README.md all-apps.json apps/extra-apps.json config/source.json data/upstream-all-apps.json scripts/
+git add README.md all-apps.json apps/extra-apps.json apps/github-releases.json config/source.json data/upstream-all-apps.json data/github-releases.json scripts/
 git commit -m "feat: add custom app"
 git push origin main
 ```
 
 ## 同步 AltGallery
 
-手动同步最新上游内容：
+手动同步 AltGallery 和 GitHub Releases：
 
 ```bash
 python3 scripts/build_source.py --refresh-upstream
@@ -120,6 +162,7 @@ python3 scripts/update_readme_apps.py
 ```
 
 GitHub Actions 会每 6 小时自动同步一次，也可以在仓库的 **Actions** 页面手动运行。
+工作流会自动提交 `all-apps.json`、GitHub Releases 缓存和 README 应用列表。
 
 ## 筛选应用
 
@@ -135,4 +178,5 @@ GitHub Actions 会每 6 小时自动同步一次，也可以在仓库的 **Actio
 ## 归属说明
 
 应用目录和部分资源来自 [bebound/AltGallery](https://github.com/bebound/AltGallery)，
-上游源地址记录在 `config/source.json`。各应用的 IPA、图标、截图和版本说明由对应项目维护。
+上游源地址记录在 `config/source.json`。自动同步应用的 IPA、版本信息由对应 GitHub
+仓库的 Releases 维护，图标、截图和应用介绍由本仓库配置。

@@ -19,9 +19,12 @@ jobs:
       - name: Refresh upstream and build source
         run: python3 scripts/build_source.py --refresh-upstream
 
+      - name: Update README supported-app list
+        run: python3 scripts/update_readme_apps.py
+
       - name: Commit generated source when changed
         run: |
-          git add all-apps.json data/upstream-all-apps.json apps/extra-apps.json config/source.json
+          git add README.md all-apps.json data/upstream-all-apps.json apps/extra-apps.json config/source.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

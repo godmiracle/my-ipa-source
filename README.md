@@ -99,7 +99,8 @@ Releases，按 `assetPattern` 匹配 IPA，并自动生成最新版本的 `downl
 2. `assetPattern` 是匹配 GitHub Release 附件文件名的正则表达式。
 3. `includePrereleases` 为 `true` 时会考虑预发布版本，适合 nightly/beta 仓库。
 4. `stripTagPrefix` 用于去掉版本标签前缀，例如将 `v1.2.3` 生成为 `1.2.3`。
-5. `minOSVersion` 会写入生成版本；如果不同版本的最低系统不同，可在脚本中扩展版本元数据。
+5. `maxVersions` 默认为 `1`，也可以设置为 `3` 等数值来保留多个匹配版本。
+6. `minOSVersion` 会写入生成版本；如果不同版本的最低系统不同，可在脚本中扩展版本元数据。
 
 当前已配置的自动同步应用：
 

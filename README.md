@@ -43,7 +43,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.1` | iOS 13.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
-| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.16` | iOS 16.0 |
+| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.17` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.2` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.0` | iOS 15.0 |

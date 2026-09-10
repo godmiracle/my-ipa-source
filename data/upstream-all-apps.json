@@ -167,11 +167,11 @@
       "tintColor": "#4080E0",
       "versions": [
         {
-          "version": "1.8.5",
-          "date": "2026-09-06",
-          "localizedDescription": "**Full Changelog**: https://github.com/moliango/doer/compare/v1.8.4...v1.8.5",
-          "downloadURL": "https://github.com/moliango/doer/releases/download/v1.8.5/doer-unsigned.ipa",
-          "size": 24280195,
+          "version": "1.8.5.1",
+          "date": "2026-09-10",
+          "localizedDescription": "**Full Changelog**: https://github.com/moliango/doer/compare/v1.8.5...v1.8.5.1",
+          "downloadURL": "https://github.com/moliango/doer/releases/download/v1.8.5.1/doer-unsigned.ipa",
+          "size": 28076973,
           "minOSVersion": "15.0"
         }
       ]
@@ -721,12 +721,12 @@
       "tintColor": "#FF0000",
       "versions": [
         {
-          "version": "21.24.3",
-          "buildVersion": "21.24.3",
-          "date": "2026-08-16",
-          "localizedDescription": "### Latest Stable Release, ENJOY!!\r\n> [!NOTE]\r\n> - Bundled with **YTUHD**\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YTUHD` `YouSlider` `YTSilentVote` `YTweaks` `YouSpeed` `YouMute` `YouLoop` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` \r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino`\r\n\r\n> [!WARNING]\r\n> - Limited Support for new YT versions.(+21.25.5). 21.24.3 is the latest build that works with extra tweaks.",
-          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/youproextra-ipa2/YouProExtra_21.24.3_1.3.1.ipa",
-          "size": 119894440,
+          "version": "21.36.6",
+          "buildVersion": "21.36.6",
+          "date": "2026-09-10",
+          "localizedDescription": "### Latest Release, ENJOY!!\r\n> [!NOTE]\r\n> - **YTUHD** is not included. 4K is available for A16+ devices.\r\n> - if you're signed out you can sign in manually. \r\n> - no iSponsorBlock. \r\n> - for <A15 devices press share button in the arrow down panel and use external player for downloaded videos.\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YouSlider` `YTweaks` `YouSpeed` `YouMute` `YouLoop` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` \r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino` \r\n\r\n> [!WARNING]\r\n> - 21.34.3+ builds require iOS 17+ now.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/youproextra-ipa0/YouProExtra_21.36.6_1.3.1.ipa",
+          "size": 129007319,
           "minOSVersion": "16.0"
         }
       ]
@@ -757,6 +757,28 @@
     }
   ],
   "news": [
+    {
+      "appID": "com.naine.doer",
+      "title": "Doer 1.8.5.1 · 10 Sep 2026",
+      "identifier": "Doer-release-v1.8.5.1",
+      "caption": "Doer 1.8.5.1 is available.",
+      "date": "2026-09-10T09:28:13Z",
+      "tintColor": "#4080E0",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/news.png",
+      "notify": true,
+      "url": "https://github.com/moliango/doer/releases/tag/v1.8.5.1"
+    },
+    {
+      "appID": "com.google.ios.youtube",
+      "title": "YouProEXTRA 21.36.6 · 10 Sep 2026",
+      "identifier": "YouProEXTRA-release-youproextra-ipa0",
+      "caption": "YouProEXTRA 21.36.6 is available.",
+      "date": "2026-09-10T01:19:05Z",
+      "tintColor": "#FF0000",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/news.png",
+      "notify": true,
+      "url": "https://github.com/mrdrvt99/YouProEXTRA/releases/tag/youproextra-ipa0"
+    },
     {
       "appID": "com.armsx2.ios",
       "title": "ARMSX2 nightly-20260909 · 09 Sep 2026",
@@ -811,17 +833,6 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/news.png",
       "notify": true,
       "url": "https://github.com/singleton-altman/MoviePilotLite/releases/tag/release-v1.2.5-2026-09-07"
-    },
-    {
-      "appID": "com.naine.doer",
-      "title": "Doer 1.8.5 · 06 Sep 2026",
-      "identifier": "Doer-release-v1.8.5",
-      "caption": "Doer 1.8.5 is available.",
-      "date": "2026-09-06T10:38:43Z",
-      "tintColor": "#4080E0",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/news.png",
-      "notify": true,
-      "url": "https://github.com/moliango/doer/releases/tag/v1.8.5"
     },
     {
       "appID": "sh.celia.novella",
@@ -998,17 +1009,6 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/news.png",
       "notify": true,
       "url": "https://github.com/Apollo-Reborn/Apollo-Reborn/releases/tag/v1.15.11_3.6.0"
-    },
-    {
-      "appID": "com.google.ios.youtube",
-      "title": "YouProEXTRA 21.24.3 · 16 Aug 2026",
-      "identifier": "YouProEXTRA-release-youproextra-ipa2",
-      "caption": "YouProEXTRA 21.24.3 is available.",
-      "date": "2026-08-16T22:53:43Z",
-      "tintColor": "#FF0000",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/news.png",
-      "notify": true,
-      "url": "https://github.com/mrdrvt99/YouProEXTRA/releases/tag/youproextra-ipa2"
     },
     {
       "appID": "org.eu.eslzzyl.Pixiv-SwiftUI",

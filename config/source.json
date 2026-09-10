@@ -1,0 +1,21 @@
+{
+  "source": {
+    "name": "我的 LiveContainer 源",
+    "identifier": "com.example.my-livecontainer-source",
+    "subtitle": "个人 IPA 应用目录",
+    "description": "从 AltGallery 同步应用，并支持添加自定义 IPA 的个人 AltStore 源。",
+    "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/assets/icon.png",
+    "website": "https://github.com/OWNER/REPO",
+    "tintColor": "#3B82F6"
+  },
+  "upstream": {
+    "url": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/all-apps.json",
+    "cache": "data/upstream-all-apps.json",
+    "includeAppNames": null,
+    "includeBundleIdentifiers": null,
+    "excludeAppNames": [],
+    "excludeBundleIdentifiers": []
+  },
+  "extras": "apps/extra-apps.json",
+  "output": "all-apps.json"
+}

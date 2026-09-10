@@ -1,0 +1,32 @@
+name: Update personal LiveContainer source
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Refresh upstream and build source
+        run: python3 scripts/build_source.py --refresh-upstream
+
+      - name: Commit generated source when changed
+        run: |
+          git add all-apps.json data/upstream-all-apps.json apps/extra-apps.json config/source.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update personal source"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

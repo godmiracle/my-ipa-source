@@ -31,11 +31,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
-| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.1.0` | iOS 13.0 |
+| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.1.1` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.5.1` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.1.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.7.1` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260913` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260914` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.1` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -45,7 +45,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.17` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
-| Mangayomi | Read manga, novels, and watch anime | `0.9.2` | iOS 未声明 |
+| Mangayomi | Read manga, novels, and watch anime | `0.9.3` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.0` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.1.0` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.5` | iOS 15.0 |

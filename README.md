@@ -47,7 +47,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.2` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.0` | iOS 15.0 |
-| MiniWatts | Battery, charging and thermal instrument | `1.0.1` | iOS 17.0 |
+| MiniWatts | Battery, charging and thermal instrument | `1.1.0` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.5` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.2` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.4.0` | iOS 16.4 |
@@ -61,7 +61,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.2.1` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.15.0` | iOS 14.0 |
-| YouProEXTRA | YouTube mod with customizable tweaks | `21.36.6` | iOS 16.0 |
+| YouProEXTRA | YouTube mod with customizable tweaks | `21.37.4` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.6.0` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |

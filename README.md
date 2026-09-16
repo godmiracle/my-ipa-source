@@ -32,10 +32,10 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | --- | --- | --- | --- |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.1.1` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.5.1` | iOS 13.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.5.2` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.1.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.7.1` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260915` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260916` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.2` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -53,7 +53,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Novella | 轻书架第三方客户端 | `2.4.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.4` | iOS 14.0 |
-| Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.15.0` | iOS 17.0 |
+| Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.4` | iOS 15.6 |
 | SceneBox | Torrent streaming client | `1.0.2` | iOS 18.0 |

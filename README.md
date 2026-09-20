@@ -58,7 +58,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.4` | iOS 15.6 |
 | SceneBox | Torrent streaming client | `1.0.3` | iOS 18.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.14` | iOS 16.4 |
-| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.2.1` | iOS 14.0 |
+| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.0` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.15.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.37.5` | iOS 16.0 |

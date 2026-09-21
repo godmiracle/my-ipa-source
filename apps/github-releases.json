@@ -38,6 +38,22 @@
         "includePrereleases": false,
         "stripTagPrefix": "v"
       }
+    },
+    {
+      "name": "AirCard-iOS",
+      "bundleIdentifier": "com.mak5er.aircard",
+      "developerName": "Mak5er",
+      "subtitle": "iOS 钱包卡面、锁屏密码键盘与墙纸主题工具",
+      "localizedDescription": "AirCard-iOS 用于在 iOS 27 及以上系统自定义 Apple Wallet 卡面、锁屏密码键盘和 PosterBoard 墙纸。应用需要 LocalDevVPN 和设备配对。",
+      "iconURL": "https://raw.githubusercontent.com/Mak5er/AirCard-iOS/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "tintColor": "#111827",
+      "minOSVersion": "27.0",
+      "github": {
+        "repo": "Mak5er/AirCard-iOS",
+        "assetPattern": "^AirCard-iOS\\.ipa$",
+        "includePrereleases": false,
+        "stripTagPrefix": "v"
+      }
     }
   ]
 }

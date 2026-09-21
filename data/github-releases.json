@@ -119,6 +119,26 @@
           ]
         }
       ]
+    },
+    "Mak5er/AirCard-iOS": {
+      "releases": [
+        {
+          "id": 392283296,
+          "tag_name": "v1.3",
+          "published_at": "2026-09-20T02:08:32Z",
+          "created_at": "2026-09-20T02:06:43Z",
+          "prerelease": false,
+          "draft": false,
+          "body": "## What's Changed in v1.3\n\n> **Note**: AirCard-iOS currently supports **iOS 27.0 and newer (iOS 27+)**.\n\n### PosterBoard Wallpapers (.tendies)\n• Added support for importing and unpacking `.tendies` wallpaper archives.\n• Automatic PosterBoard container detection and active descriptor UUID preservation.\n• Integrated instant WebKit NeoSpring respring right after flashing (no device reboot required).\n\n### Apple Wallet & Passcode Theming\n• Added PDF artwork generation for transit passes (Suica, Pasmo, etc.).\n• Fixed keypad preview framing and TelephonyUI cache paths.\n• Cleaned up passcode number localization pickers.\n• Removed sluggish button glide animations when scanning cards and copying logs.\n\n### UI & Quality of Life\n• Centered action buttons and removed misplaced list divider lines across all tabs.\n• Removed disruptive import and install alert popups in favor of clean inline status logs.\n• Cleaned up the VPN status bar and removed redundant text labels.\n• General repository cleanup and project modernization.\n",
+          "assets": [
+            {
+              "name": "AirCard-iOS.ipa",
+              "browser_download_url": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa",
+              "size": 4452235
+            }
+          ]
+        }
+      ]
     }
   }
 }

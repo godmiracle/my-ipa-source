@@ -26,16 +26,17 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **36** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **37** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
+| AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.1.1` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.0` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.1.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.7.1` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260923` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260924` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.2` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -56,6 +57,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.4` | iOS 15.6 |
+| Roam Control | Choose, test and move your iPhone's reported location | `0.9.3` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.14` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
@@ -65,7 +67,6 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.6.3` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
-| AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3` | iOS 27.0 |
 <!-- END GENERATED APP LIST -->
 
 ## 添加其他应用

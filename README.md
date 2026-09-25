@@ -53,7 +53,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Musly | Free Navidrome client & Subsonic music player | `2.0.2` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.5.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
-| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.4` | iOS 14.0 |
+| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.5` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.5` | iOS 15.6 |

@@ -54,16 +54,16 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Novella | 轻书架第三方客户端 | `2.5.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.5` | iOS 14.0 |
-| Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
+| Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.1` | iOS 17.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
-| PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.5` | iOS 15.6 |
-| Roam Control | Choose, test and move your iPhone's reported location | `0.9.3` | iOS 27.0 |
+| PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.6` | iOS 15.6 |
+| Roam Control | Choose, test and move your iPhone's reported location | `0.9.4` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.14` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.16.0` | iOS 14.0 |
-| YouProEXTRA | YouTube mod with customizable tweaks | `21.38.2` | iOS 16.0 |
+| YouProEXTRA | YouTube mod with customizable tweaks | `21.38.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.6.3` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |

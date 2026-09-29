@@ -36,7 +36,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.1` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.2.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.8.5` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260928` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20260929` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.3` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -66,7 +66,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.14` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
-| VeneraNext | 跨平台漫画阅读器 | `1.16.0` | iOS 14.0 |
+| VeneraNext | 跨平台漫画阅读器 | `1.17.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.39.4` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.6.3` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |

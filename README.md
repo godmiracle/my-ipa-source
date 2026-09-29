@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **40** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **41** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -62,6 +62,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.17` | iOS 15.6 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.4` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
+| SpotiFLAC | FLAC Downloader for iOS | `5.0.6` | iOS 16.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.14` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |

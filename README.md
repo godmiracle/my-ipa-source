@@ -48,7 +48,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.19` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
-| Madeira | Windows PC games on your iPhone | `0.1.1` | iOS 17.0 |
+| Madeira | Windows PC games on your iPhone | `0.1.2` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.7` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.4.1` | iOS 17.0 |
@@ -70,7 +70,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.17.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.39.4` | iOS 16.0 |
-| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.7.0` | iOS 15.1 |
+| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.7.1` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->

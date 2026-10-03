@@ -36,7 +36,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.1` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.2.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.8.5` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20261002` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20261003` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.3` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -46,7 +46,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.7` | iOS 13.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
-| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.19` | iOS 16.0 |
+| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.20` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.2` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.7` | iOS 未声明 |

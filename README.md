@@ -33,16 +33,16 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.0` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.1` | iOS 13.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.2` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.2.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.8.5` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20261003` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20261005` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.5.3` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Husk | Android app launcher for iOS | `0.5.0` | iOS 16.4 |
-| Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.1.1` | iOS 18.0 |
+| Husk | Android app launcher for iOS | `0.6.1` | iOS 16.4 |
+| Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.7` | iOS 13.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
@@ -58,7 +58,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Novella | 轻书架第三方客户端 | `2.5.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
-| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.5` | iOS 14.0 |
+| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.6` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.17` | iOS 15.6 |
@@ -69,7 +69,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.17.0` | iOS 14.0 |
-| YouProEXTRA | YouTube mod with customizable tweaks | `21.39.4` | iOS 16.0 |
+| YouProEXTRA | YouTube mod with customizable tweaks | `21.40.5` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.7.1` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |

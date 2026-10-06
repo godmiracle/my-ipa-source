@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **43** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **44** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Husk | Android app launcher for iOS | `0.6.1` | iOS 16.4 |
+| Husk | Android app launcher for iOS | `0.7.0` | iOS 16.4 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.7` | iOS 13.0 |
@@ -60,6 +60,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.1.6` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
+| Playport | PC games on your iPhone. Natively, no streaming. | `0.3.3` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.17` | iOS 15.6 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.4` | iOS 27.0 |

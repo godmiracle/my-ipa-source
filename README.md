@@ -62,7 +62,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.0` | iOS 17.0 |
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.3.3` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
-| PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.17` | iOS 15.6 |
+| PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.18` | iOS 15.6 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.4` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SpotiFLAC | FLAC Downloader for iOS | `5.0.7` | iOS 16.0 |

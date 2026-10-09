@@ -41,7 +41,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Husk | Android app launcher for iOS | `1.0.1` | iOS 16.4 |
+| Husk | Android app launcher for iOS | `1.1.0` | iOS 16.4 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.8` | iOS 13.0 |
@@ -71,7 +71,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.17.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.40.5` | iOS 16.0 |
-| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.8.0` | iOS 15.1 |
+| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.8.1` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->

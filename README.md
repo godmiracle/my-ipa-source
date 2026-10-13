@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **44** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **45** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -34,13 +34,14 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.1` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.3` | iOS 13.0 |
-| Animeko | 一站式弹幕追番平台 | `6.2.0` | iOS 14.0 |
+| Animeko | 一站式弹幕追番平台 | `6.3.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.9.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `nightly-20261011` | iOS 17.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
+| Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Husk | Android app launcher for iOS | `2.0` | iOS 16.4 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
@@ -49,12 +50,12 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.20` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.0` | iOS 15.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
-| Mangayomi | Read manga, novels, and watch anime | `0.9.8` | iOS 未声明 |
+| Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
-| MiniWatts | Battery, charging and thermal instrument | `1.5.0` | iOS 17.0 |
+| MiniWatts | Battery, charging and thermal instrument | `1.5.1` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.5` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.2` | iOS 15.0 |
-| NeoStation iOS | Emulation frontend for iPhone and iPad | `0.0.5` | iOS 18.0 |
+| NeoStation iOS | Emulation frontend for iPhone and iPad | `0.0.6` | iOS 18.0 |
 | Novella | 轻书架第三方客户端 | `2.5.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
@@ -67,11 +68,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SpotiFLAC | FLAC Downloader for iOS | `5.1.1` | iOS 16.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
-| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.3.3` | iOS 14.0 |
+| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.4.0` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.17.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.41.5` | iOS 16.0 |
-| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.8.1` | iOS 15.1 |
+| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.0` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->

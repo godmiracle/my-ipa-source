@@ -55,7 +55,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MiniWatts | Battery, charging and thermal instrument | `1.5.1` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.5` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.2` | iOS 15.0 |
-| NeoStation iOS | Emulation frontend for iPhone and iPad | `0.0.6` | iOS 18.0 |
+| NeoStation iOS | Emulation frontend for iPhone and iPad | `0.0.7` | iOS 18.0 |
 | Novella | 轻书架第三方客户端 | `2.5.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |

@@ -30,7 +30,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
-| Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
+| Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9-4` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.1` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.3` | iOS 13.0 |
@@ -69,7 +69,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SpotiFLAC | FLAC Downloader for iOS | `5.1.1` | iOS 16.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.4.0` | iOS 14.0 |
-| UTM | Virtual machines for iOS | `4.7.5` | iOS 14.0 |
+| UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.41.5` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.1` | iOS 15.1 |

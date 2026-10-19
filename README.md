@@ -47,7 +47,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.9` | iOS 13.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
-| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.20` | iOS 16.0 |
+| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.21` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `nightly` | iOS 15.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
@@ -66,7 +66,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.7` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
-| SpotiFLAC | FLAC Downloader for iOS | `5.1.1` | iOS 16.0 |
+| SpotiFLAC | FLAC Downloader for iOS | `5.2.0` | iOS 16.0 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.4.0` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |

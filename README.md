@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **46** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **47** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -37,6 +37,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.3.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.9.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261020.1334` | iOS 17.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.578` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -69,7 +70,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SpotiFLAC | FLAC Downloader for iOS | `5.2.1` | iOS 16.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.1.15` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
-| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.5.0` | iOS 14.0 |
+| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.5.1` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.41.5` | iOS 16.0 |

@@ -37,7 +37,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.3.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.9.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261020.1334` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.578` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.579` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |

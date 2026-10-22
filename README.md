@@ -37,7 +37,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.3.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.9.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261020.1334` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.579` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.580` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -46,7 +46,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Husk | Android app launcher for iOS | `3.0` | iOS 16.4 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
-| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.3.9` | iOS 13.0 |
+| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | `2.4.0` | iOS 13.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.21` | iOS 16.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.11` | iOS 15.0 |
@@ -67,7 +67,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
-| SpotiFLAC | FLAC Downloader for iOS | `5.2.1` | iOS 16.0 |
+| SpotiFLAC | FLAC Downloader for iOS | `5.2.5` | iOS 16.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.1.15` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.5.1` | iOS 14.0 |

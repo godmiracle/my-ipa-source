@@ -54,7 +54,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.5.1` | iOS 17.0 |
-| MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.5` | iOS 15.0 |
+| MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.6` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | NeoStation iOS | Emulation frontend for iPhone and iPad | `0.0.8` | iOS 18.0 |
 | Novella | 轻书架第三方客户端 | `2.6.0` | iOS 16.4 |

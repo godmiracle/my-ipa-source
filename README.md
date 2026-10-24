@@ -34,7 +34,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.3` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.4` | iOS 13.0 |
-| Animeko | 一站式弹幕追番平台 | `6.3.0` | iOS 14.0 |
+| Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `3.9.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261023.1332` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.592` | iOS 18.0 |
@@ -74,7 +74,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.0` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.42.4` | iOS 16.0 |
-| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.4` | iOS 15.1 |
+| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.5` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.21` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->

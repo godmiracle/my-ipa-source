@@ -33,7 +33,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9-4` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.3` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.5` | iOS 13.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.6` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261023.1332` | iOS 17.0 |
@@ -70,7 +70,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SpotiFLAC | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.1.15` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
-| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.5.1` | iOS 14.0 |
+| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.0` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.1` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.42.4` | iOS 16.0 |

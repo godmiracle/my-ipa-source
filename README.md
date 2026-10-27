@@ -56,7 +56,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
-| MiniWatts | Battery, charging and thermal instrument | `1.5.1` | iOS 17.0 |
+| MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.6` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.6.0` | iOS 16.4 |
@@ -67,7 +67,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.4.0` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
-| RewindBox | Emulation frontend for iPhone and iPad | `0.0.9` | iOS 18.0 |
+| RewindBox | Emulation frontend for iPhone and iPad | `0.0.10` | iOS 18.0 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SpotiFLAC | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |

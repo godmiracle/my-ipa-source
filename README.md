@@ -37,7 +37,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261023.1332` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.611` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.614` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -52,7 +52,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.22` | iOS 16.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.11` | iOS 15.0 |
-| LSX4 | Open-source PS4/PS5 emulator | `128.9558` | iOS 26.0 |
+| LSX4 | Open-source PS4/PS5 emulator | `128.9561` | iOS 26.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |

@@ -52,7 +52,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.23` | iOS 16.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.11` | iOS 15.0 |
-| LSX4 | Open-source PS4/PS5 emulator | `128.9561` | iOS 26.0 |
+| LSX4 | Open-source PS4/PS5 emulator | `128.9564` | iOS 26.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.9` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
@@ -73,7 +73,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SpotiFLAC | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.1.15` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
-| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.1` | iOS 14.0 |
+| Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.2` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.1` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.43.5` | iOS 16.0 |

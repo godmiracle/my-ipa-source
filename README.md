@@ -36,7 +36,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.6` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.0` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261028.1320` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261029.1302` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.623` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |

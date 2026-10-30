@@ -35,7 +35,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.3` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.6` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
-| Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.0` | iOS 未声明 |
+| Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.1` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261029.1302` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.623` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
@@ -58,8 +58,8 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.4` | iOS 17.0 |
-| MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.6` | iOS 15.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.5` | iOS 17.0 |
+| MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.2.7` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.6.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
@@ -72,7 +72,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.10` | iOS 18.0 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
-| StikDebug | On-device JIT enabler and device toolbox. | `3.1.15` | iOS 17.4 |
+| StikDebug | On-device JIT enabler and device toolbox. | `3.2.0` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.2` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |

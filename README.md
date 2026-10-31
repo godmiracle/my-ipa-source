@@ -37,7 +37,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.1` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261029.1302` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.623` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.625` | iOS 18.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
@@ -58,10 +58,10 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.8` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.9` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.0` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
-| Novella | 轻书架第三方客户端 | `2.6.0` | iOS 16.4 |
+| Novella | 轻书架第三方客户端 | `2.7.0` | iOS 16.4 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `1.4.0` | iOS 14.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |

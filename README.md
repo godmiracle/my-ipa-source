@@ -43,7 +43,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
-| Husk | Android app launcher for iOS | `3.1` | iOS 16.4 |
+| Husk | Android app launcher for iOS | `3.2.1` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
@@ -58,7 +58,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.2.6` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.7` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.8` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.0` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.6.0` | iOS 16.4 |

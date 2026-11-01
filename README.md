@@ -43,7 +43,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
-| Husk | Android app launcher for iOS | `3.2.1` | iOS 16.4 |
+| Husk | Android app launcher for iOS | `3.3` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
@@ -78,7 +78,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.3` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
-| VeneraNext | 跨平台漫画阅读器 | `1.18.1` | iOS 14.0 |
+| VeneraNext | 跨平台漫画阅读器 | `1.18.2` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.43.5` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.7` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.23` | iOS 12.0 |

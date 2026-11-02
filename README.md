@@ -52,13 +52,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.24` | iOS 16.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.11` | iOS 15.0 |
-| LSX4 | Open-source PS4/PS5 emulator | `128.9564` | iOS 26.0 |
+| LSX4 | Open-source PS4/PS5 emulator | `128.9757` | iOS 26.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.95` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.1` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.3.0` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.0.9` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.1.0` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.0` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.7.0` | iOS 16.4 |

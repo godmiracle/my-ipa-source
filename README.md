@@ -33,7 +33,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.3` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.6` | iOS 13.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.7` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.1` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261029.1302` | iOS 17.0 |
@@ -52,7 +52,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.24` | iOS 16.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.11` | iOS 15.0 |
-| LSX4 | Open-source PS4/PS5 emulator | `128.9757` | iOS 26.0 |
+| LSX4 | Open-source PS4/PS5 emulator | `128.9775` | iOS 26.0 |
 | Madeira | Windows PC games on your iPhone | `0.1.3` | iOS 17.0 |
 | Mangayomi | Read manga, novels, and watch anime | `0.9.95` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.2` | iOS 15.0 |

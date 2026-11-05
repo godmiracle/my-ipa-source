@@ -59,8 +59,8 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Mangayomi | Read manga, novels, and watch anime | `0.9.95` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.2` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
-| Mornye | FLAC Downloader for iOS | `5.3.0` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.1.2` | iOS 17.0 |
+| Mornye | FLAC Downloader for iOS | `5.3.1` | iOS 16.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.1.3` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.0` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.7.0` | iOS 16.4 |
@@ -74,7 +74,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.10` | iOS 18.0 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
-| Rush Hours | Slide the cars, free the red one. | `2.0.7` | iOS 16.4 |
+| Rush Hours | Slide the cars, free the red one. | `2.1.0` | iOS 16.4 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.0` | iOS 17.4 |
@@ -83,7 +83,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.2` | iOS 14.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.44.4` | iOS 16.0 |
-| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.8` | iOS 15.1 |
+| ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.9` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.23` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->

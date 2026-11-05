@@ -26,25 +26,26 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **55** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **56** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
-| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.3` | iOS 13.0 |
+| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.4` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.7` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.1` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261104.1113` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.630` | iOS 18.0 |
+| DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
-| Husk | Android app launcher for iOS | `3.3` | iOS 16.4 |
+| Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
@@ -59,7 +60,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.2` | iOS 15.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.6.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.3.0` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.1.1` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.1.2` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.0` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Novella | 轻书架第三方客户端 | `2.7.0` | iOS 16.4 |

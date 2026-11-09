@@ -78,7 +78,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Rush Hours | Slide the cars, free the red one. | `2.1.0` | iOS 16.4 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |
-| StikDebug | On-device JIT enabler and device toolbox. | `3.2.1` | iOS 17.4 |
+| StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.5` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |

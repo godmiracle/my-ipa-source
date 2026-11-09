@@ -26,12 +26,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **57** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **60** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
+| AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.4` | iOS 13.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.7` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
@@ -45,6 +46,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
+| Feather | On-device signing application | `2.9.0` | iOS 16.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
@@ -62,7 +64,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mornye | FLAC Downloader for iOS | `5.3.1` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.1` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.2` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.1` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
@@ -77,6 +79,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
 | Rush Hours | Slide the cars, free the red one. | `2.1.0` | iOS 16.4 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
+| SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |

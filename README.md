@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **60** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **62** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -47,6 +47,8 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Feather | On-device signing application | `2.9.0` | iOS 16.0 |
+| GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.0.4` | iOS 26.0 |
+| HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
@@ -77,7 +79,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.10` | iOS 18.0 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
-| Rush Hours | Slide the cars, free the red one. | `2.2.0` | iOS 16.4 |
+| Rush Hours | Slide the cars, free the red one. | `2.2.1` | iOS 16.4 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |

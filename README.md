@@ -77,9 +77,9 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.5.0` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
-| RewindBox | Emulation frontend for iPhone and iPad | `0.0.10` | iOS 18.0 |
+| RewindBox | Emulation frontend for iPhone and iPad | `0.0.11` | iOS 18.0 |
 | Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
-| Rush Hours | Slide the cars, free the red one. | `2.2.1` | iOS 16.4 |
+| Rush Hours | Slide the cars, free the red one. | `2.2.2` | iOS 16.4 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |

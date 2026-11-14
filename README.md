@@ -34,9 +34,9 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.4` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.7` | iOS 13.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.8` | iOS 13.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
-| Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.0.1` | iOS 未声明 |
+| Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261113.0426` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.653` | iOS 18.0 |
@@ -48,7 +48,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `0.9.1` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Feather | On-device signing application | `2.9.0` | iOS 16.0 |
-| GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.0.7` | iOS 26.0 |
+| GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
@@ -58,7 +58,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
 | Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.5` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
-| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.34` | iOS 16.0 |
+| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.35` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.2` | iOS 15.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.13` | iOS 15.0 |
@@ -86,7 +86,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |
-| Stats | Your Mac's activity, at a glance | `0.3.6` | iOS 17.0 |
+| Stats | Your Mac's activity, at a glance | `0.3.10` | iOS 17.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |

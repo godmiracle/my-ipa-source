@@ -39,7 +39,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261113.0426` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.653` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.659` | iOS 18.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.6` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
@@ -52,13 +52,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
-| iPadn | Download older and removed App Store apps | `2.1.0` | iOS 17.0 |
+| iPadn | Download older and removed App Store apps | `2.1.1` | iOS 17.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
 | Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.5` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
-| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.35` | iOS 16.0 |
+| Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.37` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.2` | iOS 15.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.13` | iOS 15.0 |
@@ -75,7 +75,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
-| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.0` | iOS 14.0 |
+| PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.1` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.3` | iOS 17.0 |
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.5.0` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
@@ -86,7 +86,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | Native film and print simulation for iPhone and iPad | `1.1.1` | iOS 18.0 |
-| Stats | Your Mac's activity, at a glance | `0.3.10` | iOS 17.0 |
+| Stats | Your Mac's activity, at a glance | `0.3.15` | iOS 17.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |

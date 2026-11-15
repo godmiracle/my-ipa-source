@@ -39,7 +39,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261114.1505` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.659` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.665` | iOS 18.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.7` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
@@ -52,7 +52,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
-| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.1.2` | iOS 17.0 |
+| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.1.3` | iOS 17.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
@@ -94,10 +94,10 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.5` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
-| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.8` | iOS 26.0 |
+| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.11` | iOS 26.0 |
 | WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.2.1` | iOS 16.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
-| YouProEXTRA | YouTube mod with customizable tweaks | `21.45.4` | iOS 16.0 |
+| YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.25` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |

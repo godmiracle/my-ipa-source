@@ -98,7 +98,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.45.4` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |
-| Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.24` | iOS 12.0 |
+| Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.25` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->
 

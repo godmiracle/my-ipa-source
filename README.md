@@ -41,7 +41,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.665` | iOS 18.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
-| Doer | A native iOS client for Linux.do | `1.8.7` | iOS 15.0 |
+| Doer | A native iOS client for Linux.do | `1.8.7.1` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
@@ -56,7 +56,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
-| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.6` | iOS 26.0 |
+| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.7` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.37` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.2` | iOS 15.0 |
@@ -69,7 +69,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mornye | Hi-res music player with downloads | `5.3.1` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.2` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.3` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
@@ -99,7 +99,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |
-| Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.25` | iOS 12.0 |
+| Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.26` | iOS 12.0 |
 | HaKa Comic | 第三方哗咔漫画跨平台客户端 | `1.2.7` | iOS 13.0 |
 <!-- END GENERATED APP LIST -->
 

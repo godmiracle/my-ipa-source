@@ -17,19 +17,19 @@
               "size": 21887480
             },
             {
-              "name": "pikapika-v1.8.26-ios_nosign-flutter_3.38.4.ipa",
-              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-ios_nosign-flutter_3.38.4.ipa",
-              "size": 19202071
-            },
-            {
               "name": "pikapika-v1.8.26-macos-arm64-flutter_3.38.4.dmg",
               "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-macos-arm64-flutter_3.38.4.dmg",
-              "size": 46610876
+              "size": 46626338
             },
             {
-              "name": "pikapika-v1.8.26-android-arm32-flutter_3.38.4.apk",
-              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-android-arm32-flutter_3.38.4.apk",
-              "size": 29125688
+              "name": "pikapika-v1.8.26-ios_nosign-flutter_3.38.4.ipa",
+              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-ios_nosign-flutter_3.38.4.ipa",
+              "size": 19202143
+            },
+            {
+              "name": "pikapika-v1.8.26-windows-x86_64-flutter_3.38.4.zip",
+              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-windows-x86_64-flutter_3.38.4.zip",
+              "size": 19367868
             },
             {
               "name": "pikapika-v1.8.26-android-x86_64-flutter_3.38.4.apk",
@@ -37,14 +37,14 @@
               "size": 37202980
             },
             {
+              "name": "pikapika-v1.8.26-android-arm32-flutter_3.38.4.apk",
+              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-android-arm32-flutter_3.38.4.apk",
+              "size": 29113400
+            },
+            {
               "name": "pikapika-v1.8.26-android-arm64-flutter_3.38.4.apk",
               "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-android-arm64-flutter_3.38.4.apk",
               "size": 34708528
-            },
-            {
-              "name": "pikapika-v1.8.26-windows-x86_64-flutter_3.38.4.zip",
-              "browser_download_url": "https://github.com/ComicSparks/pikapika/releases/download/v1.8.26/pikapika-v1.8.26-windows-x86_64-flutter_3.38.4.zip",
-              "size": 19366045
             }
           ]
         }

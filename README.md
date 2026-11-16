@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **71** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **72** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -34,18 +34,19 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.4` | iOS 13.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.8` | iOS 13.0 |
+| AniCh | 支持超分辨率的在线动漫弹幕播放器 | `1.5.27` | iOS 12.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.8` | iOS 15.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261114.1505` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.665` | iOS 18.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
-| Doer | A native iOS client for Linux.do | `1.8.7.1` | iOS 15.0 |
+| Doer | A native iOS client for Linux.do | `1.8.8` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `0.9.1` | iOS 26.0 |
+| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `0.9.2` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Feather | On-device signing application | `2.9.0` | iOS 16.0 |
 | GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
@@ -94,8 +95,8 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.5` | iOS 14.0 |
 | UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
-| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.11` | iOS 26.0 |
-| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.2.1` | iOS 16.0 |
+| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.13` | iOS 26.0 |
+| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.2.2` | iOS 16.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |

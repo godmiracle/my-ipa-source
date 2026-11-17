@@ -93,9 +93,9 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.5` | iOS 14.0 |
-| UTM | Virtual machines for iOS | `5.0.8` | iOS 14.0 |
+| UTM | Virtual machines for iOS | `5.0.9` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
-| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.13` | iOS 26.0 |
+| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.16` | iOS 26.0 |
 | WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.2.2` | iOS 16.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |

@@ -33,13 +33,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
-| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.4` | iOS 13.0 |
+| AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.5` | iOS 13.0 |
 | AniCh | 支持超分辨率的在线动漫弹幕播放器 | `1.5.27` | iOS 12.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.8` | iOS 15.0 |
-| Animeko | 一站式弹幕追番平台 | `6.4.0` | iOS 14.0 |
+| Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261114.1505` | iOS 17.0 |
-| Asspp | The ultimate multi-region App Store manager | `4.2.2` | iOS 17.0 |
+| Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.665` | iOS 18.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.0.38` | iOS 15.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
@@ -54,11 +54,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
-| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.1.3` | iOS 17.0 |
+| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.2.1` | iOS 17.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
-| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.7` | iOS 26.0 |
+| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.8` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.37` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.2` | iOS 15.0 |
@@ -71,7 +71,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mornye | Hi-res music player with downloads | `5.4.0` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.3` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.4` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
@@ -89,16 +89,16 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | 面向 iPhone 与 iPad 的原生胶片与印相模拟器 | `1.1.1` | iOS 18.0 |
-| Stats | Your Mac's activity, at a glance | `0.3.17` | iOS 17.0 |
+| Stats | Your Mac's activity, at a glance | `0.3.18` | iOS 17.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |
 | Tsumiru | Native manga & manhwa reader for Suwayomi-Server | `1.6.5` | iOS 14.0 |
-| UTM | Virtual machines for iOS | `5.0.9` | iOS 14.0 |
+| UTM | Virtual machines for iOS | `5.0.9-2` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
 | VRCM | Bring your VRChat social life to your phone | `1.1.6` | iOS 15.3 |
 | WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.18` | iOS 26.0 |
-| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.2.2` | iOS 16.0 |
+| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.3.1` | iOS 16.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |

@@ -47,7 +47,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `1.0.4` | iOS 26.0 |
+| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `1.0.5` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Feather | On-device signing application | `2.9.0` | iOS 16.0 |
 | GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
@@ -89,7 +89,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | 面向 iPhone 与 iPad 的原生胶片与印相模拟器 | `1.1.1` | iOS 18.0 |
-| Stats | Your Mac's activity, at a glance | `0.3.15` | iOS 17.0 |
+| Stats | Your Mac's activity, at a glance | `0.3.17` | iOS 17.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |
 | TiebaPure | 基于 SwiftUI 的第三方百度贴吧客户端 | `1.4.15` | iOS 16.4 |

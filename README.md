@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **74** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **77** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -42,12 +42,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.665` | iOS 18.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.0.38` | iOS 15.0 |
+| Dartotsu | Multiplatform anime and manga tracking client | `1.2.1` | iOS 15.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.8.1` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | EhPanda | An unofficial E-Hentai App for iOS built with SwiftUI & TCA | `2.8.1` | iOS 26.0 |
-| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `1.0.5` | iOS 26.0 |
+| Erosion-CN | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱 | `1.0.6` | iOS 26.0 |
 | Fathom | x86-64 PC emulator for iOS | `1.0.0` | iOS 18.0 |
 | Feather | On-device signing application | `2.9.0` | iOS 16.0 |
 | GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
@@ -55,10 +56,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
 | iPadn | 下载 App Store 的历史版本与已下架应用 | `2.2.1` | iOS 17.0 |
+| iRAM+ | Enable Increased Memory Limit for sideloaded apps on device | `1.3.1` | iOS 16.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.4` | iOS 13.0 |
-| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.8` | iOS 26.0 |
+| Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.0.9` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.37` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.2` | iOS 15.0 |
@@ -71,7 +73,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mornye | Hi-res music player with downloads | `5.4.0` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.5` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `1.2.6` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
@@ -98,7 +100,8 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
 | VRCM | Bring your VRChat social life to your phone | `1.1.6` | iOS 15.3 |
 | WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.18` | iOS 26.0 |
-| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.3.2` | iOS 16.0 |
+| WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.3.4` | iOS 16.0 |
+| WQManager | 无需越狱的 App 数据备份与缓存清理工具 | `0.5` | iOS 26.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.46.3` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.9.10` | iOS 15.1 |

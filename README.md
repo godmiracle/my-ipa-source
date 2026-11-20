@@ -40,7 +40,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261120.0157` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.682` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.686` | iOS 18.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.0.38` | iOS 15.0 |
 | Cloudn | 网盘分享与短视频高速解析下载 | `1.4.2` | iOS 17.0 |
 | Dartotsu | Multiplatform anime and manga tracking client | `1.2.1` | iOS 15.0 |
@@ -69,7 +69,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.14` | iOS 15.0 |
 | LSX4 | Open-source PS4/PS5 emulator | `128.9934` | iOS 26.0 |
 | Madeira | Windows PC games on your iPhone | `0.2.0` | iOS 17.0 |
-| Mangayomi | Read manga, novels, and watch anime | `0.9.96` | iOS 未声明 |
+| Mangayomi | Read manga, novels, and watch anime | `0.9.97` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.2` | iOS 15.0 |
 | MD3Music | 基于酷狗音乐 API 的 Material 3 音乐播放器 | `6.2.0` | iOS 15.0 |
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |

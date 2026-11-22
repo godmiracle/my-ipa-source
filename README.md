@@ -35,7 +35,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.5` | iOS 13.0 |
 | AniCh | 支持超分辨率的在线动漫弹幕播放器 | `1.5.27` | iOS 12.0 |
-| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.6.8` | iOS 15.0 |
+| AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.7.0` | iOS 15.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261121.1609` | iOS 17.0 |
@@ -61,7 +61,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iRAM+ | Enable Increased Memory Limit for sideloaded apps on device | `1.3.1` | iOS 16.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
-| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.5` | iOS 13.0 |
+| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.6` | iOS 13.0 |
 | Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.1.1` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.37` | iOS 16.0 |
@@ -104,7 +104,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `5.0.9-2` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.3` | iOS 14.0 |
 | VRCM | Bring your VRChat social life to your phone | `1.1.6` | iOS 15.3 |
-| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.19` | iOS 26.0 |
+| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.20` | iOS 26.0 |
 | WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.3.6` | iOS 16.0 |
 | WQManager | 无需越狱的 App 数据备份与缓存清理工具 | `0.5` | iOS 26.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |

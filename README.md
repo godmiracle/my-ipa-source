@@ -38,7 +38,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.7.0` | iOS 15.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261122.2300` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261123.2028` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.712` | iOS 18.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.1.0` | iOS 15.0 |
@@ -56,9 +56,9 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
-| iBuilder | Switch games, built on your iPhone | `0.1.7` | iOS 26.0 |
+| iBuilder | Switch games, built on your iPhone | `0.1.8` | iOS 26.0 |
 | iDeck | Steam Big Picture on iPhone and iPad | `0.1.3` | iOS 26.0 |
-| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.3.4` | iOS 17.0 |
+| iPadn | 下载 App Store 的历史版本与已下架应用 | `2.3.5` | iOS 17.0 |
 | iRAM+ | Enable Increased Memory Limit for sideloaded apps on device | `1.3.1` | iOS 16.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
@@ -81,7 +81,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
-| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.8` | iOS 15.0 |
+| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.9` | iOS 15.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.1` | iOS 14.0 |

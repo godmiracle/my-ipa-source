@@ -13,11 +13,11 @@
       "developerName": "Skitty",
       "subtitle": "Free and open source manga reader for iOS and iPadOS",
       "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/source.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/reader.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/source.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/images/reader.webp"
       ],
       "tintColor": "#FF375F",
       "versions": [
@@ -56,14 +56,14 @@
       "developerName": "Riley & Shane",
       "subtitle": "Sideload non-notarized apps with AltServer.",
       "localizedDescription": "AltStore Classic allows you to sideload non-notarized .ipa files with AltServer on a Mac or PC.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/myapps.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/app-detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/browse.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/sources.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/add-source.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/myapps.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/app-detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/browse.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/sources.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/add-source.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AltStore/images/settings.webp"
       ],
       "tintColor": "#018084",
       "versions": [
@@ -83,11 +83,11 @@
       "developerName": "AniBakaBaka",
       "subtitle": "跨平台番剧聚合、媒体播放与弹幕客户端",
       "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/player.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/images/player.webp"
       ],
       "tintColor": "#0077B6",
       "versions": [
@@ -108,11 +108,11 @@
       "developerName": "Sle2p",
       "subtitle": "支持超分辨率的在线动漫弹幕播放器",
       "localizedDescription": "支持超分辨率、多平台、多番剧源与多弹幕的在线动漫播放应用，高清无广告。提供番剧索引与搜索、倍速播放、观看记录、追番管理、弹幕过滤与举报、分集评论和离线缓存。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/home.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/detail.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/play.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniCh/images/play.webp"
       ],
       "tintColor": "#F0E0D0",
       "versions": [
@@ -132,11 +132,11 @@
       "developerName": "openAnimeFlow",
       "subtitle": "跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕",
       "localizedDescription": "AnimeFlow 是一个跨平台动漫视频播放应用，支持 Android、iOS、Windows、macOS 与 Linux。内置多数据源与自定义 XPath 爬虫配置，支持基于 Anime4K 的实时视频 4K 超分辨率，对接 Bangumi 同步收藏与追番数据，并支持多平台弹幕源与丰富的弹幕设置。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/comment.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AnimeFlow/images/comment.webp"
       ],
       "tintColor": "#124EB3",
       "versions": [
@@ -156,11 +156,11 @@
       "developerName": "open-ani",
       "subtitle": "一站式弹幕追番平台",
       "localizedDescription": "Animeko 是一个 Kotlin/Compose Multiplatform 打造的一站式弹幕追番平台，集找番、追番、看番于一体，支持 Bangumi 云同步观看记录、多视频数据源聚合（含 BitTorrent、Jellyfin、Emby）、离线缓存与弹幕云过滤。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/subject-details.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/episode.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/subject-details.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Animeko/images/episode.webp"
       ],
       "tintColor": "#0050A0",
       "versions": [
@@ -180,13 +180,13 @@
       "developerName": "Christian Selig (& Apollo-Reborn contributors)",
       "subtitle": "Apollo-Reborn build with Liquid Glass patch",
       "localizedDescription": "Apollo-Reborn is the community-maintained Apollo sideload build powered by the Apollo-Reborn tweak.\n\nIt restores custom API support, media fixes, uploads, inline media, translation, saved categories, Home Screen and Lock Screen widgets, Liquid Glass support on iOS 26+, and the rest of the project’s ongoing fixes and enhancements.\n\nThese sources are intended for AltStore Classic, SideStore, and Feather. Apollo-Reborn is not compatible with AltStore PAL.\n\nChoose the source variant that matches how you sideload:\n\n• Standard: full app bundle with Apollo’s working extensions plus Apollo-Reborn widgets\n• No Extensions: strips app extensions, including widgets, to reduce App ID usage on free Apple IDs\n• GLASS: adds the Liquid Glass iOS 26 patch and bundled Liquid Glass icon catalog\n• No Extensions + GLASS: combines both options\n\nThe extension-bearing builds (Standard and GLASS) register about 7 App IDs, one per bundled app extension. A free Apple ID can register 10 App IDs per 7 days, so a clean single install fits, but it is easy to exceed if you install under more than one bundle ID, reinstall within the same week, or sideload other extension-bearing apps. If an install fails with an App ID error, use a No Extensions build (1 App ID) or wait for older App IDs to expire. A paid Apple Developer account has a much higher cap.\n\nThis project is not affiliated with Apollo or Christian Selig.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/avatar-profile.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/settings.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/custom.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/recents.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/lg-icons.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/avatar-profile.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/custom.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/recents.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Apollo-Reborn/images/lg-icons.webp"
       ],
       "tintColor": "#6050F0",
       "versions": [
@@ -200,16 +200,40 @@
       ]
     },
     {
+      "name": "Applesauce",
+      "bundleIdentifier": "io.github.johnny901901901.applesauce",
+      "developerName": "Unofficial iOS port contributors",
+      "subtitle": "A playful emulator for iOS",
+      "localizedDescription": "Plays supported 32-bit iPhone games on modern devices, carrying both the HyperHLE v1.0.6 and touchHLE 0.2.3 emulator cores so you can pick which one runs each game. An unaffiliated fork, endorsed by neither project. JIT must be enabled for each new app process. No games are included.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Applesauce/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Applesauce/images/library-games.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Applesauce/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Applesauce/images/about.webp"
+      ],
+      "tintColor": "#F01F14",
+      "versions": [
+        {
+          "version": "0.4.2",
+          "date": "2026-08-15T23:21:28Z",
+          "localizedDescription": "# Applesauce 0.4.2\n\nFive fixes, mostly found by pushing Blade Dash and Talking Tom until they\nbroke. Nothing about installing or your library changes — pick the same IPA\nyou used for 0.4.0.\n\nApplesauce is an unaffiliated fork. The emulation is the work of\n[touchHLE](https://github.com/touchHLE/touchHLE) and its fork\n[HyperHLE](https://github.com/HyperHLE/HyperHLE); neither project is connected\nto this one or endorses it. Please report problems here rather than to them.\n\n## The on-screen keyboard now appears in games that use text fields\n\nGames that focus a text field — The Sims Medieval naming your Sim or kingdom,\nPeggle's profile certificate, Blokus, Spore — loaded the iOS keyboard\nsubsystem but no keyboard ever came up, so those names could not be entered.\nThe cause was run-loop starvation: the emulator holds the main thread and only\nlet iOS service its run loop for microseconds per frame, far too little for the\nasynchronous keyboard-presentation handshake to finish, so iOS invalidated the\nkeyboard service connection. The emulator now services the run loop generously\nwhile a text field is focused, which is not performance-sensitive because those\nare name-entry screens.\n\n## Talking-character apps can use the microphone\n\nApps like Talking Tom sat silent because input audio queues were created but\nnever delivered any audio. They now capture through the microphone, and iOS\nshows its normal microphone-permission prompt the first time a game records.\nAlong the way this also fixes two things that made Talking Tom unusable:\n\n- **It no longer freezes after a couple of taps.** Its recorder treated a\n  buffer that reported zero packets as empty and re-enqueued it without ever\n  looking at the audio, so it waited forever for speech that had already\n  arrived. The real sample count is reported now.\n- **Opening the upgrade screen no longer crashes.** That screen loads a\n  UTF-16 text file, the format Apple recommended for older apps, and the\n  loader used to abort on it. It reads UTF-16 in either byte order now.\n\n## Games that crashed on launch now start\n\nBlade Dash — and other games built on Google's protobuf/Tag Manager runtime —\ncrashed immediately with a stack overflow or an infinite loop. Three separate\ncauses:\n\n- The old-toolchain `[super …]` call was unbound, turning every super-call\n  into infinite recursion on the object itself.\n- `NSAllocateObject` was implemented by re-sending `alloc`, which recursed\n  forever whenever an app allocates with a computed size.\n- Legitimately deep start-up chains (protobuf nests initialisation through\n  hundreds of classes) overflowed the small per-thread host stack before the\n  recursion guard could catch it; threads get a much larger stack now.\n\n## Notes\n\nThese fixes are in the HyperHLE core and the shared iOS layer. As always, JIT\nmust be enabled before starting a game, and gameplay behaviour on a physical\ndevice can differ from the simulator — please report anything that still\nmisbehaves, with the log from **On My iPhone → Applesauce → touchhle-host.log**.",
+          "downloadURL": "https://github.com/0xjohnnydev/Applesauce/releases/download/ios-v0.4.2/Applesauce-iOS-unsigned.ipa",
+          "size": 41666853,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
       "name": "ARMSX2",
       "bundleIdentifier": "com.armsx2.ios",
       "developerName": "ARMSX2",
       "subtitle": "PlayStation 2 emulator for ARM64",
       "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming handheld.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/game.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/list.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/game.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/list.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/settings.webp"
       ],
       "tintColor": "#3CAEFF",
       "versions": [
@@ -229,11 +253,11 @@
       "developerName": "Lakr233",
       "subtitle": "The ultimate multi-region App Store manager",
       "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IPA library with older versions — no signing out of your device required.\n\nDownloads go through Apple's servers with your own Apple ID. Because the underlying protocol is the same one ipatool uses, a secondary or burner account is strongly recommended.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/search.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/app.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/account.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/app.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/images/account.webp"
       ],
       "tintColor": "#3060D0",
       "versions": [
@@ -253,12 +277,12 @@
       "developerName": "thebcd69",
       "subtitle": "Windows games on iPhone and iPad",
       "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/settings.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/accounts.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/controllers.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/accounts.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/controllers.webp"
       ],
       "tintColor": "#F070F0",
       "versions": [
@@ -273,15 +297,66 @@
       ]
     },
     {
+      "name": "Beans Music",
+      "bundleIdentifier": "com.beans.app",
+      "developerName": "XIaodou0416",
+      "subtitle": "使用 SwiftUI 开发的多平台音乐播放器",
+      "localizedDescription": "面向 iOS 15 及以上的开源 SwiftUI 音乐播放器，内置网易云音乐、QQ 音乐与酷狗音乐，支持本地歌单、离线下载、逐字歌词、多种播放页布局与均衡器等自定义能力。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/player.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/lyrics.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/settings.webp"
+      ],
+      "tintColor": "#F0D050",
+      "versions": [
+        {
+          "version": "1.6.6",
+          "date": "2026-09-06T12:41:32Z",
+          "localizedDescription": "本次更新：\n\n- 增加网易云音乐和 QQ 音乐歌单广场搜索功能\n- 优化歌曲封面缓存\n- 优化歌词划动后自动回到当前播放歌词的问题\n- 优化整体流畅性，低系统版本请实测反馈\n- 优化网易云私人漫游；如遇问题可尝试心动模式\n- 简化搜索界面，移除均衡器注释\n- 更换酷狗音乐歌单广场接口\n- 修复 QQ 音乐本身有会员但无法播放的问题\n- 修复 iOS 26 以下系统无法返回的问题",
+          "downloadURL": "https://github.com/XIaodou0416/Beans-Music/releases/download/v1.6.6/Beans-unsigned.ipa",
+          "size": 8761833,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "BiliSponsorBlock",
+      "bundleIdentifier": "tv.danmaku.bilianime",
+      "developerName": "lcmovie",
+      "subtitle": "官方哔哩哔哩 iOS App 的 SponsorBlock 空降助手插件",
+      "localizedDescription": "适用于官方哔哩哔哩 iOS App 的空降助手插件，通过注入 dylib 的方式提供 SponsorBlock 片段识别、提示与自动跳过功能。可分别为赞助、自我推广、互动提醒、片头片尾、离题等片段分类设置处理方式，并在播放器进度条上以分类颜色标记片段。借助 BilibiliSponsorBlock 项目获取空降片段数据。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BiliSponsorBlock/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BiliSponsorBlock/images/preview-1.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BiliSponsorBlock/images/preview-2.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BiliSponsorBlock/images/preview-3.webp"
+      ],
+      "tintColor": "#FB7299",
+      "versions": [
+        {
+          "version": "9.10.0",
+          "date": "2026-10-19T07:09:39Z",
+          "localizedDescription": "## ✨ 主要更新\r\n\r\n### 片段跳过\r\n- 使用上游 BilibiliSponsorBlock 的片段数据。\r\n- 支持按分类设置总是跳过、每次播放跳过一次、手动跳过、仅显示或禁用。\r\n- 优化半屏、横屏全屏及竖屏播放器适配。\r\n- 优化手动拖动进度后的跳过恢复逻辑。\r\n- 自动跳过后显示提示，支持点击撤销。\r\n- 在进度条中显示片段标记，弹出控制条的标记随控制条显示和收起。\r\n\r\n### 片段提交\r\n- 新增参考 PiliPlus 交互设计的片段提交面板。\r\n- 支持添加多个片段、取当前播放时间、手动编辑时间、选择分类与动作、预览及确认提交。\r\n- 提交按钮随播放器控制菜单显示和收起，减少对视频画面的遮挡。\r\n\r\n### 设置与更新\r\n- 优化设置入口、字体、颜色、间距及开关布局。\r\n- 空降助手入口仅显示在主设置页面顶部。\r\n- 新增 GitHub 稳定发行版更新提醒，支持手动检查。\r\n- 保留跳过次数、节省时间统计及个人提交身份。\r\n- 项目链接统一显示为“本项目地址”和“上游地址”。\r\n\r\n## 📦 安装方式\r\n\r\n1. 下载 `BiliSponsorBlock-v2.0.0.dylib`。\r\n2. 移除旧版插件注入项，只保留本版本。\r\n3. 沿用原来的注入、重签名和安装方式。\r\n4. 重启 App，在「设置 → 空降助手 → 版本号」确认显示 `2.0.0`。\r\n\r\n或自签安装bili-9.10.0-BiliSponsorBlock.V2.0.0.ipa\r\n\r\n升级无需清除 App 数据。完整发行包内附安装说明及 SHA-256 校验信息。\r\n\r\n## 📱 适配说明\r\n\r\n- 架构：ARM64\r\n- 最低系统：iOS 15.0\r\n- 主要适配版本：哔哩哔哩 iOS 9.0.0及以后；哔哩哔哩国际版 v6.3.0及以后（原白哔哩不支持）\r\n\r\n静音和整片标记可提交，当前版本不自动执行静音或整片拦截。\r\n\r\n## 🙏 致谢\r\n\r\n- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)：上游项目与片段数据服务。\r\n- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)：空降助手交互与提交方案参考。",
+          "downloadURL": "https://github.com/lcmovie/BiliSponsorBlock-ios/releases/download/v2.0.0/bili-9.10.0-BiliSponsorBlock.V2.0.0.ipa",
+          "size": 279835183,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
       "name": "Breeze",
       "bundleIdentifier": "com.zephyr.breeze",
       "developerName": "deretame",
       "subtitle": "使用 Flutter 开发的插件化漫画阅读器",
       "localizedDescription": "使用 Flutter 构建的跨平台漫画阅读器，漫画源以插件形式提供，内置插件商店，支持本地与云收藏。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/home.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/plugin.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/plugin.webp"
       ],
       "tintColor": "#E03030",
       "versions": [
@@ -301,7 +376,7 @@
       "developerName": "mengangs",
       "subtitle": "网盘分享与短视频高速解析下载",
       "localizedDescription": "粘贴分享链接，浏览并高速下载网盘文件与短视频，所有解析在手机本地完成，无服务器不收集数据。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Cloudn/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Cloudn/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Cloudn/images/analysis.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Cloudn/images/download.webp",
@@ -325,7 +400,7 @@
       "developerName": "aayush2622",
       "subtitle": "Multiplatform anime and manga tracking client",
       "localizedDescription": "A Flutter rewrite of Dantotsu: track and manage your anime, manga and novel lists across AniList, MyAnimeList, Simkl, Kitsu, MangaBaka and MangaUpdates, on Android, iOS, Windows, Linux and macOS.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dartotsu/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dartotsu/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dartotsu/images/home.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dartotsu/images/anime.webp",
@@ -349,11 +424,11 @@
       "developerName": "Ahmed Bafkir",
       "subtitle": "Download, install and share App Store IPAs",
       "localizedDescription": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and install or share it without a jailbreak.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/versions.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/downloads.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/versions.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/images/downloads.webp"
       ],
       "tintColor": "#27A0F4",
       "versions": [
@@ -373,11 +448,11 @@
       "developerName": "moliango",
       "subtitle": "A native iOS client for Linux.do",
       "localizedDescription": "A native iOS client for Linux.do — UIKit + Swift, no SwiftUI in the main app.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.webp"
       ],
       "tintColor": "#4080E0",
       "versions": [
@@ -397,11 +472,11 @@
       "developerName": "OatmealDome",
       "subtitle": "GameCube and Wii emulator for iOS/iPadOS",
       "localizedDescription": "Dolphin for iOS, reborn. A GameCube and Wii emulator for iPhone and iPad.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/game.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/game.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DolphiniOS/images/settings.webp"
       ],
       "tintColor": "#E0B030",
       "versions": [
@@ -421,11 +496,11 @@
       "developerName": "Manic EMU Development Team",
       "subtitle": "Original Xbox emulation for iOS",
       "localizedDescription": "DukeX is an experimental iOS-focused frontend for xemu. It embeds the xemu core in a native Swift shell and presents the Vulkan renderer through MoltenVK and native Metal.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/activity.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/game.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/activity.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DukeX/images/game.webp"
       ],
       "tintColor": "#8FCA39",
       "versions": [
@@ -440,16 +515,39 @@
       ]
     },
     {
+      "name": "Dusklight",
+      "bundleIdentifier": "dev.twilitrealm.dusk",
+      "developerName": "Twilit Realm",
+      "subtitle": "A native port of a classic adventure",
+      "localizedDescription": "Dusklight brings a classic adventure natively to the iPhone and iPad with modern rendering, flexible controls and quality-of-life options. You must provide a dump of your own copy of the original game to play.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dusklight/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dusklight/images/screenshot-01.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dusklight/images/screenshot-02.webp"
+      ],
+      "tintColor": "#C4901E",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2026-09-30T07:06:44Z",
+          "localizedDescription": "**What's new:**\r\n\r\n* **Added:** New InterpService: Provides interpolation for custom model rendering. ([#2636](https://github.com/TwilitRealm/dusklight/pull/2636))\r\n* **Added:** GfxService v1.4: Provides backing textures for resolved framebuffers. ([#2643](https://github.com/TwilitRealm/dusklight/pull/2643), [Aurora #260](https://github.com/encounter/aurora/pull/260))\r\n* **Fixed:** Vulkan startup crash on Android devices with Adreno GPUs, including the Galaxy S23 and Odin 2. ([Aurora `bded88e95d`](https://github.com/encounter/aurora/commit/bded88e95d5a1a7c8b2d747843cb8cde17b39838), [#2563](https://github.com/TwilitRealm/dusklight/issues/2563))\r\n* **Fixed:** HTTPS requests failing in Linux AppImage builds because system CA certificates weren't found. ([Borealis `4ac5e7052a`](https://github.com/encounter/borealis/commit/4ac5e7052a8c49a122f8d57f626b5c75c5ca6968))\r\n* **Fixed:** WebSocket service being unavailable in Linux AppImage builds. ([`40457c6adb`](https://github.com/TwilitRealm/dusklight/commit/40457c6adb381928e4b5fef6ed459ed291edd5e2), [Borealis `4ac5e7052a`](https://github.com/encounter/borealis/commit/4ac5e7052a8c49a122f8d57f626b5c75c5ca6968))\r\n* **Fixed:** False memory card corruption errors after resetting and switching game modes. ([`7b60dc8f24`](https://github.com/TwilitRealm/dusklight/commit/7b60dc8f24c03656ca69d51cacec84832df9e227))\r\n* **Fixed:** Incorrect camera framing in the cutscene before Goron Mines. ([#2648](https://github.com/TwilitRealm/dusklight/pull/2648), [#956](https://github.com/TwilitRealm/dusklight/issues/956))\r\n* **Fixed:** Crashes and missing fire when retrying the burning house sequence in Kakariko Village after dying. ([#2649](https://github.com/TwilitRealm/dusklight/pull/2649), [#1441](https://github.com/TwilitRealm/dusklight/issues/1441))\r\n* **Changed:** Significantly improved Mod Manager performance, especially with a large number of mods. ([`ceda410434`](https://github.com/TwilitRealm/dusklight/commit/ceda410434286107741eb43c7e3ade914c5f1751), [`eb5ad19dbc`](https://github.com/TwilitRealm/dusklight/commit/eb5ad19dbc488345163f0c076911fb38368cf115))\r\n* **Changed:** Significantly improved Logs window performance. ([`55e2904ce0`](https://github.com/TwilitRealm/dusklight/commit/55e2904ce03548348021ec0137616e5d65683982))\r\n* **Changed:** Updated bundled Dusklight Randomizer to v1.0.6. ([`b9c370d5d1`](https://github.com/TwilitRealm/dusklight/commit/b9c370d5d1851b83040e8c767cbbbce8e580185b))\r\n  * Fixed entrance randomizer logic incorrectly treating human and wolf abilities as interchangeable in Twilight. ([Randomizer `cfa99c1944`](https://github.com/TwilitRealm/dusklight-randomizer/commit/cfa99c1944f36c4285923be65cbda6916a31ff15))\r\n  * Fixed some logical areas not taking into account that you could change time of day with Midna. ([Randomizer `cfa99c1944`](https://github.com/TwilitRealm/dusklight-randomizer/commit/cfa99c1944f36c4285923be65cbda6916a31ff15))\r\n  * Fixed boss exits when dungeon entrances are shuffled but boss entrances are not. ([Randomizer `6f650ca077`](https://github.com/TwilitRealm/dusklight-randomizer/commit/6f650ca0771375ca3a09679d99d9e60c48b5a59a))\r\n  * Fixed inaccessible doors in Kakariko Twilight before obtaining the village's warp portal, which could cause entrance randomizer softlocks. ([Randomizer `12d7cf807a`](https://github.com/TwilitRealm/dusklight-randomizer/commit/12d7cf807a325da71e264d9e2dd36d4ff09103b7))\r\n  * Fixed music staying muted after entering a shuffled boss room through the Forest Temple boss door. ([Randomizer `ee58b04d21`](https://github.com/TwilitRealm/dusklight-randomizer/commit/ee58b04d21cd413da2607e8fc79e2521d7bc6764), [Randomizer #85](https://github.com/TwilitRealm/dusklight-randomizer/issues/85))\r\n  * Fixed the map not appearing after howling at the Snowpeak Howling Stone. ([Randomizer `2d97aa9a6c`](https://github.com/TwilitRealm/dusklight-randomizer/commit/2d97aa9a6c68e85a51b2a80aabce26d6228a1fbc))\r\n  * Prevented starting the broken goat-catching sequence with Bo in Ordon Village. ([Randomizer `4f5bb4e14d`](https://github.com/TwilitRealm/dusklight-randomizer/commit/4f5bb4e14d76037981ea83fad384d98545f9c337))\r\n  * Fixed some item checks in Ordon Village and south of Castle Town in alternate story states. ([Randomizer `4f5bb4e14d`](https://github.com/TwilitRealm/dusklight-randomizer/commit/4f5bb4e14d76037981ea83fad384d98545f9c337), [`e8d2c020c2`](https://github.com/TwilitRealm/dusklight-randomizer/commit/e8d2c020c27cdbd754a0a5aea8ea4b27335b9d1d))\r\n  * Corrected the logic connection between Snowpeak Ruins' double Freezard room and the west courtyard balcony. ([Randomizer `325fcf9358`](https://github.com/TwilitRealm/dusklight-randomizer/commit/325fcf9358adc41ab56f65b27be79e8eb5721442))\r\n\r\nThanks to all contributors:\r\n@dbalatoni13\r\n@encounter\r\n@gymnast86\r\n@PJB3005\r\n\r\n**Full Changelog**: https://github.com/TwilitRealm/dusklight/compare/v2.0.2...v2.0.3",
+          "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
+          "size": 37056541,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "EhPanda-Team",
       "subtitle": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA",
       "localizedDescription": "EhPanda is an unofficial E-Hentai app for iOS & iPadOS built with SwiftUI & TCA. It supports almost all E-Hentai gallery categories, gallery browsing with filters, gallery details with tags & related galleries, posting / editing / replying to comments, H@H archiving, torrent listing, E-Hentai settings, and SNI-bypass (domain fronting) for restricted networks. Localization is built in and the app icon and accent color are customizable.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/comment.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/EhPanda/images/comment.webp"
       ],
       "tintColor": "#0f766e",
       "versions": [
@@ -469,11 +567,11 @@
       "developerName": "Kianuni",
       "subtitle": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱",
       "localizedDescription": "Erosion MobileGestalt 工具箱的简体中文本地化版本，针对 iOS / iPadOS 27.x 的系统配置强化了写入与备份流程，并部分支持 iOS / iPadOS 26.x。重签名时至少需要一个 App Group 权限。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/files.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/files.webp"
       ],
       "tintColor": "#D07030",
       "versions": [
@@ -493,10 +591,10 @@
       "developerName": "Leviidev",
       "subtitle": "x86-64 PC emulator for iOS",
       "localizedDescription": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as they execute, using FEXCore - the dynamic recompiler behind FEX-Emu - with a native SwiftUI front end.\n\nImport a statically linked x86-64 Linux executable, open it, press Run. Fathom maps it into a guest address space, hands its instructions to FEXCore's JIT, answers its Linux syscalls, and shows you its output.\n\nJIT requires StikDebug to attach to the process and service the executable-memory traps; Fathom asks for this automatically on launch when it is missing.\n\nPlease note: only statically linked, position-independent executables (-static-pie) run today. Dynamically linked binaries and 32-bit x86 are not supported yet, and threads are not implemented, so a guest runs single-threaded.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/images/settings.webp"
       ],
       "tintColor": "#68D8D8",
       "versions": [
@@ -516,12 +614,12 @@
       "developerName": "Samara",
       "subtitle": "On-device signing application",
       "localizedDescription": "Free on-device iOS/iPadOS application manager and installer. Feather uses certificates from the Apple Developer Program to sign and install ipas on stock iOS, with built-in app management.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/repos.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/sign.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/store.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/repos.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/sign.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Feather/images/store.webp"
       ],
       "tintColor": "#848ef9",
       "versions": [
@@ -566,9 +664,9 @@
       "developerName": "huamidev",
       "subtitle": "MobileGestalt editor for iOS 27 with region-code tweaks and presets",
       "localizedDescription": "A MobileGestalt editor for iOS 27.x with region-code and sales-region tweaks, device presets, backups, and a typed field editor. Powered by worse_query; requires iOS 27 for on-device MobileGestalt access and a common App Group when re-signing.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/images/home.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GestaltX/images/home.webp"
       ],
       "tintColor": "#007AFF",
       "versions": [
@@ -583,14 +681,39 @@
       ]
     },
     {
+      "name": "GlobalRefresh",
+      "bundleIdentifier": "com.yoroin.globalrefresh",
+      "developerName": "Yoroin",
+      "subtitle": "基于 iOS 画中画的悬浮窗高刷辅助工具",
+      "localizedDescription": "基于 iOS 画中画的悬浮窗工具，可辅助解锁 ProMotion 120Hz 表现，支持自定义悬浮窗大小（可完全隐藏）、后台保活以及多悬浮窗共存。适配 iOS 15–27。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/images/frame_rate.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/images/tutorial-step-1.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/images/tutorial-step-2.webp"
+      ],
+      "tintColor": "#177FFD",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-11-20T10:21:33Z",
+          "localizedDescription": "# 全局高刷 1.1.2（26.11.20）\n\n本版本提供正式版通用未签名 IPA，可通过牛蛙助手、AltStore、Sideloadly 等工具自行签名安装。\n\n构建号：`2026112101`\n\nIPA 文件：`GlobalRefresh_1.1.2_2026112101_unsigned.ipa`\n\nSHA-256：`776b590301dc70314323d8f5b0d3055d6d04e7b093b184d8c8d05eb363537e74`\n\n## 重新打包说明（26.11.21）\n\n构建号更新为 `2026112101`，恢复 iPhone 和 iPad 的图标文件索引，解决部分签名工具导入 IPA 后不显示应用图标的问题。主包 `Info.plist` 仍为 XML；程序、悬浮窗逻辑及图标资源均未改动。\n\n遇到签名工具内图标空白的用户，请下载新版附件后重新导入。已正常安装使用的用户无需仅为此重新安装。\n\n## 更新内容\n\n- \\* 修复 iOS 16 及以上悬浮窗关闭按钮偶尔重新出现的问题（即屏幕中间的水滴图标）\n- \\* 修复部分 iOS 15 设备无法启动悬浮窗的问题，恢复原生启动流程\n- 优化画中画并存，增加当前会话内的检查和有限补试；系统暂时挂起悬浮窗时，不再误判为关闭\n- 默认 VideoCall 与仅 PiP 保活组合的内容更新由 60fps 调整为 30fps，减少后台刷新开销\n- 优化小屏首页布局，避免启动按钮被底栏遮挡\n- 新增当前 App 的运存和线程数显示\n- 修复线程统计资源未释放、离开帧率演示页后刷新驱动未清理的问题；PlayerLayer 兼容方案改为在后台准备视频素材，避免阻塞界面\n- 支持导出和分享诊断日志；减少日志重复写盘，覆盖更新后保留已有退出记录和系统诊断\n- 优化快捷指令链接识别，保留原有入口；修复切换更新渠道时可能显示旧结果的问题，支持检测同版本的新构建\n\n## 来源与署名\n\n感谢 CaiWanFeng 提供原始 PiP 示例。本项目由 Yoroin 在此基础上继续开发和维护。\n\n原 Demo 项目：[CaiWanFeng/PiP](https://github.com/CaiWanFeng/PiP)\n\n当前项目：[Yoroin/GlobalRefresh-PiP](https://github.com/Yoroin/GlobalRefresh-PiP)\n\n基于本项目继续开发或分发时，请保留原作者、后续维护者及对应项目地址，并注明代码来源。\n\n## 自签说明\n\n此 IPA 不绑定个人证书，主程序和内嵌框架均未签名，也不含 `embedded.mobileprovision` 或 `_CodeSignature`。安装前请使用自己的 Apple ID 或证书签名。",
+          "downloadURL": "https://github.com/Yoroin/GlobalRefresh-PiP/releases/download/v1.1.2/GlobalRefresh_1.1.2_2026112101_unsigned.ipa",
+          "size": 7878284,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
       "name": "HermesEnabler",
       "bundleIdentifier": "com.example.HermesEnabler",
       "developerName": "pookjw",
       "subtitle": "Enable Hermès Watch Faces on any Apple Watch",
       "localizedDescription": "Enable Hermès and Ultra watch faces on any Apple Watch, along with display, sensor, and Siri tweaks backed by MobileGestalt changes and automatic backups. Requires watchOS 27.0 through 27.3 beta 1 and a paid Apple Developer account.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/watch.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/watch.webp"
       ],
       "tintColor": "#70C0F0",
       "versions": [
@@ -610,10 +733,10 @@
       "developerName": "Leviidev",
       "subtitle": "Android app launcher for iOS",
       "localizedDescription": "Run Android apps on iOS: drop in an APK, tap it, and the Android app opens full-screen on a QEMU guest with hardware-accelerated display and audio. Needs JIT plus a debugger attached at runtime, so it requires a sideloading setup that can provide get-task-allow rather than a plain re-sign.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/main.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/main.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Husk/images/settings.webp"
       ],
       "tintColor": "#5949E5",
       "versions": [
@@ -657,10 +780,10 @@
       "developerName": "kuscholar",
       "subtitle": "Steam Big Picture on iPhone and iPad",
       "localizedDescription": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine, FEX and Metal. Experimental; requires iOS 26+, JIT, and user-provided Steam files.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/configuration.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/steam-home.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/configuration.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/images/steam-home.webp"
       ],
       "tintColor": "#50D0F0",
       "versions": [
@@ -681,12 +804,12 @@
       "developerName": "mengangs",
       "subtitle": "下载 App Store 的历史版本与已下架应用",
       "localizedDescription": "在 iPhone 与 iPad 上搜索、下载并安装你已拥有的应用——包括历史版本与已下架应用，支持区域价格比较与原生安装。支持 iPhone、iPad、Apple TV 与 Mac 应用，提供 11 种语言。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.webp"
       ],
       "tintColor": "#111111",
       "versions": [
@@ -706,7 +829,7 @@
       "developerName": "NexSideloading",
       "subtitle": "Enable Increased Memory Limit for sideloaded apps on device",
       "localizedDescription": "Grant sideloaded apps the Increased Memory Limit and Extended Virtual Addressing entitlements directly on device: sign in with the Apple Account that signed them, pick an app and add the entitlement, then reinstall it. Works only with apps signed by an Apple account, not with enterprise certificates.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iRAM-Plus/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iRAM-Plus/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iRAM-Plus/images/start.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iRAM-Plus/images/app.webp",
@@ -730,10 +853,10 @@
       "developerName": "intraducine",
       "subtitle": "Experimental Windows-game runtime for iPhone and iPad",
       "localizedDescription": "An experimental iPhone and iPad Windows-game runtime, with a native game library and touch, keyboard, mouse, and controller integration. Requires iOS 18+, JIT, and your own game files; compatibility varies by game and device.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/all-games.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/all-games.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Iridium/images/settings.webp"
       ],
       "tintColor": "#1C1C1E",
       "versions": [
@@ -753,11 +876,11 @@
       "developerName": "XITRIX",
       "subtitle": "Torrent client for iOS",
       "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support and much more.\n\nWhat can this app do:\n\n• Download in the background\n• Live Activity and Dynamic Island progress bar\n• Downloading on external drives\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app\n• File sharing directly from app\n• Download torrent by url\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• Web/WebDav Server\n• Select files download priority\n• Change UI to dark theme\n• Color personalization\n• RSS Feed",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/player.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/player.webp"
       ],
       "tintColor": "#F19E69",
       "versions": [
@@ -777,14 +900,14 @@
       "developerName": "Predidit",
       "subtitle": "基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。",
       "localizedDescription": "使用 Flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则，支持规则导入与规则分享，支持基于 Anime4K 的实时超分辨率。\n\n其他特性：番剧目录与搜索、分集播放、番剧弹幕、追番列表、历史记录、倍速播放、多视频源支持、配色方案等。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/home.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/timetable.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/details.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/selection.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules_edit.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/timetable.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/details.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/selection.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules_edit.webp"
       ],
       "tintColor": "#4CAF50",
       "versions": [
@@ -804,11 +927,11 @@
       "developerName": "LinkPass888",
       "subtitle": "基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。",
       "localizedDescription": "基于自定义规则的番剧采集与在线观看客户端，带弹幕。原生 SwiftUI 实现，界面使用 iOS 26 的液态玻璃材质，随系统外观与辅助功能设置变化。\n\n内置 mpv 播放内核与 Anime4K 实时超分辨率，支持弹弹play 弹幕、Bangumi 追番绑定、时间表、下载与 WebDAV 备份。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/01-recommend.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/02-detail.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/03-player.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/01-recommend.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/02-detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi-Swift/images/03-player.webp"
       ],
       "tintColor": "#45A992",
       "versions": [
@@ -828,11 +951,11 @@
       "developerName": "Mac-XK",
       "subtitle": "基于 SwiftUI 的多源音乐聚合播放器",
       "localizedDescription": "基于 SwiftUI 开发的多源音乐聚合播放器，支持 iOS/macOS。内置酷我、酷狗、QQ 音乐、网易云、咪咕等多平台音源，支持 LRC 歌词同步、全局搜索、后台播放与深色主题，并可通过 JS 脚本导入自定义音源。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/recommendation.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/playlist.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/play.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/recommendation.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/playlist.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/KMusic/images/play.webp"
       ],
       "tintColor": "#F03050",
       "versions": [
@@ -852,11 +975,11 @@
       "developerName": "missuo",
       "subtitle": "原生 NetEase Cloud Music iOS 客户端（雲の音）",
       "localizedDescription": "Kumone（雲の音）— native NetEase Cloud Music client for iOS. Talks directly to NetEase's real API with no third-party server: QR-code login, gray-track unblocking, synced lyrics with translation, immersive artwork-tinted now-playing, and playlist management.\n\nSupports English and Simplified Chinese localization.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/featured.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/featured.webp"
       ],
       "tintColor": "#EC4949",
       "versions": [
@@ -876,10 +999,10 @@
       "developerName": "LightNovelShelf",
       "subtitle": "轻书架官方 Flutter 客户端",
       "localizedDescription": "轻书架官方 Flutter 客户端，面向 iOS、iPadOS 与 Android，支持书架管理、在线阅读、翻页动画、双页阅读与自动更新。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/home.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/community.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LightNovelShelf/images/community.webp"
       ],
       "tintColor": "#4E4592",
       "versions": [
@@ -899,11 +1022,11 @@
       "developerName": "Leminos",
       "subtitle": "Run ARM64 Linux apps and desktops on iOS",
       "localizedDescription": "Run ARM64 Linux applications and desktop environments on iOS without a jailbreak, virtual machine, or JIT.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/terminal.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/terminal.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LinuxRunner/images/settings.webp"
       ],
       "tintColor": "#60B0F0",
       "versions": [
@@ -923,11 +1046,11 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/apps.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/sources.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/apps.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/sources.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/settings.webp"
       ],
       "tintColor": "#0784FC",
       "versions": [
@@ -938,14 +1061,6 @@
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
           "size": 23997201,
           "minOSVersion": "15.0"
-        },
-        {
-          "version": "3.8.0",
-          "date": "2026-07-17T07:44:20Z",
-          "localizedDescription": "# ⚠️This build is OUTDATED. Please use [nightly version](https://github.com/LiveContainer/LiveContainer/releases/tag/nightly) instead.\r\n\r\n# LiveContainer 3.8.0\r\n\r\n> [!Warning]\r\n> The standalone version requires **SideStore 0.6.2+** or **AltStore 2.2.1+** for installation.\r\n> To install LiveContainer with built-in SideStore (`LiveContainer+SideStore.ipa`), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r\n\r\n# New Features\r\n\r\n## Storage Management\r\n\r\n- Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n- Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n- Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r\n\r\n## Multiple LiveContainers\r\n- Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (#1367)\r\n\r\n## Share to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (#1357)\r\n\r\n## Multitasking\r\n\r\n- Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (#1208)\r\n- Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (#1228, #1250)\r\n- Added more multitask window animations and improved native-window scene handling.\r\n- URL schemes and `open-url` payloads can be passed to already-running multitask apps and native windows.\r\n\r\n## JIT\r\n- Added StosDebug support as a JIT enabler.\r\n\r\n## TweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r\n\r\n# Improvements\r\n- Added support for manually setting a container's IDFV. (#1194)\r\n- IDFV spoofing works even when Tweakloader is not loaded.\r\n- Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n- Download alerts now block tab switching while a download is in progress.\r\n- Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n- Add a \"Clear Notification\" button (#1388)\r\n- Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (#1417)\r\n\r\n# Bug Fixes\r\n\r\n- Fixed `livecontainer://open-url` dropping the deep link when launching an app from a cold start. (#1339)\r\n- Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (#1209)\r\n- Fixed a crash when opening Container Preferences if the app did not contain an `en.lproj` path. (#1239)\r\n- Fixed apps and AltStore sources not being searchable in some cases. (#1365, #1368)\r\n- Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (#1347)\r\n- Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (#1386)\r\n- Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (#1430)\r\n- Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (#1300, #1310, #1329)\r\n- Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (#1402, #844, #870)\r\n- Added support for iOS 27 developer beta. (#1394, #1417, #1416)\r\n- Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (#1415)\r\n\r\n# Localization\r\n\r\n- Updated translations. Added Spanish translation by @Deci8BelioS\r\n\r\n# Credits\r\n\r\nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r\n\r\nGreat thanks to everyone who helped translate LiveContainer.",
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
-          "size": 35403538,
-          "minOSVersion": "15.0"
         }
       ]
     },
@@ -955,10 +1070,10 @@
       "developerName": "lpfoj",
       "subtitle": "Open-source PS4/PS5 emulator",
       "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/images/settings.webp"
       ],
       "tintColor": "#C09050",
       "versions": [
@@ -979,11 +1094,11 @@
       "developerName": "Will Faust",
       "subtitle": "Windows PC games on your iPhone",
       "localizedDescription": "Madeira runs unmodified x86-64 Windows PC games inside a single jailed iOS app: FEX-Emu translates the game's x86 code to ARM64 as it runs, Wine 11.4 built for ARM64EC provides Windows itself, and DXMT plus Madeira's own Direct3D 12 runtime draw Direct3D 9, 10, 11 and 12 through Metal. Games come with a library, Steam sign-in and installs, controller and touch controls, and keyboard, mouse and trackpad input. Requires an iPhone on iOS 26 or later with JIT enabled through StikDebug.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/introduction.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/main.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/introduction.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/main.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Madeira/images/settings.webp"
       ],
       "tintColor": "#7B68EE",
       "versions": [
@@ -1003,11 +1118,11 @@
       "developerName": "Moustapha Kodjo Amadou",
       "subtitle": "Read manga, novels, and watch anime",
       "localizedDescription": "Mangayomi is an open-source Flutter app for reading manga, novels, and watching anime across multiple platforms.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot1.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot2.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot3.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot1.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot2.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mangayomi/images/screenshot3.webp"
       ],
       "tintColor": "#EF4444",
       "versions": [
@@ -1026,11 +1141,11 @@
       "developerName": "Manic EMU Development Team",
       "subtitle": "All-in-one retro game emulator for iOS",
       "localizedDescription": "All-in-one retro game emulator for iOS, bringing console, arcade, computer, and mobile Java systems into one clean app with saves, cheats, custom skins, RetroAchievements, and more.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/library.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/landscape.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/achievements.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/landscape.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ManicEMU/images/achievements.webp"
       ],
       "tintColor": "#F02040",
       "versions": [
@@ -1050,7 +1165,7 @@
       "developerName": "EPXiaohua",
       "subtitle": "基于酷狗音乐 API 的 Material 3 音乐播放器",
       "localizedDescription": "基于酷狗音乐 API 的 Flutter 音乐播放器，内置嵌入式 Rust API 服务器，无需外部服务器即可使用。提供 MD3 与 Apple Music 风格播放页、逐字歌词与多种音频输出能力。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MD3Music-iOS/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MD3Music-iOS/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MD3Music-iOS/images/home.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MD3Music-iOS/images/player.webp",
@@ -1076,12 +1191,12 @@
       "developerName": "youshen2",
       "subtitle": "使用 SwiftUI 开发的网易云音乐第三方客户端",
       "localizedDescription": "面向 iPhone、iPad 与 Apple Watch 的原生网易云音乐客户端，使用 SwiftUI 构建，参考 Apple Music 的 Liquid Glass 设计，支持逐字歌词、文字 PV 歌词、全屏天际歌词等特色功能。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/player.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/lyrics.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/player.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MeloX/images/lyrics.webp"
       ],
       "tintColor": "#E01F2D",
       "versions": [
@@ -1101,12 +1216,12 @@
       "developerName": "ResistanceTo",
       "subtitle": "Battery, charging and thermal instrument",
       "localizedDescription": "An iPhone battery and charging monitor built on Apple's private APIs: the charger's real watts, how much of that reaches the cell, where the rest goes as heat, and every temperature sensor in the phone. No network code — nothing it reads leaves your phone.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/power.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/thermal.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/adapter.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/history.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/power.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/thermal.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/adapter.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MiniWatts/images/history.webp"
       ],
       "tintColor": "#30E0F0",
       "versions": [
@@ -1126,12 +1241,12 @@
       "developerName": "zarzet",
       "subtitle": "Hi-res music player with downloads",
       "localizedDescription": "Mornye is a Flutter and Rust music app with a full-screen player, hi-res and bit-perfect output, synced word-by-word lyrics, and installable extensions for metadata and audio downloads. Downloads and your own music folders share one local library, and SMB, WebDAV, HTTP or Subsonic servers can stream straight to the phone.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/nowplaying.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/lyrics.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/devices.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/nowplaying.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/lyrics.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/devices.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/settings.webp"
       ],
       "tintColor": "#1E4E4F",
       "versions": [
@@ -1151,11 +1266,11 @@
       "developerName": "jxxghp",
       "subtitle": "MoviePilot 的 iOS 原生客户端",
       "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/recommend.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/downloads.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/recommend.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/images/downloads.webp"
       ],
       "tintColor": "#8844F6",
       "versions": [
@@ -1175,11 +1290,11 @@
       "developerName": "singleton-altman",
       "subtitle": "MoviePilot 移动端，基于 Flutter 实现",
       "localizedDescription": "基于 MoviePilot 的 Flutter 跨端客户端，对接 MoviePilot v2 API，在手机上完成订阅、搜索、下载、整理与系统运维等常用操作。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/recommend.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/explorer.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/recommend.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/images/explorer.webp"
       ],
       "tintColor": "#8050F0",
       "versions": [
@@ -1199,11 +1314,11 @@
       "developerName": "dddevid",
       "subtitle": "Free Navidrome client & Subsonic music player",
       "localizedDescription": "Musly is a free Navidrome client and Subsonic music player with an Apple Music-inspired interface. Stream your self-hosted library from Navidrome, Subsonic, or Airsonic servers on iOS, Android, desktop, and more.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/player.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Musly/images/player.webp"
       ],
       "tintColor": "#FA243C",
       "versions": [
@@ -1223,11 +1338,11 @@
       "developerName": "verback2308",
       "subtitle": "YouTube client for iOS 12+",
       "localizedDescription": "A lightweight YouTube client with SponsorBlock, Return YouTube Dislike, and up to 1080p playback. No ads, no tracking, no dependencies.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/home.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/player.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/channel.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/player.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Opaline/images/channel.webp"
       ],
       "tintColor": "#FF0000",
       "versions": [
@@ -1247,9 +1362,9 @@
       "developerName": "nekohasekai",
       "subtitle": "Remote desktop client optimized for Mac screen sharing",
       "localizedDescription": "Open Screen Sharing is a free and open-source remote desktop client optimized for Mac screen sharing and public networks, while also offering first-class support for standard VNC and RDP.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/images/session.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/images/session.webp"
       ],
       "tintColor": "#1060F0",
       "versions": [
@@ -1269,9 +1384,9 @@
       "developerName": "hugeBlack",
       "subtitle": "Open Parsec client for iOS/iPadOS",
       "localizedDescription": "An open-source Parsec client for iOS/iPadOS with mouse, keyboard, and touch-screen support.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/images/login.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenParsec/images/login.webp"
       ],
       "tintColor": "#BB01F0",
       "versions": [
@@ -1300,11 +1415,11 @@
       "tintColor": "#151619",
       "versions": [
         {
-          "version": "0.1.2",
-          "date": "2026-11-24T07:00:40Z",
-          "localizedDescription": "**Full Changelog**: https://github.com/huami1314/orca-ios/compare/v0.1.1...v0.1.2",
-          "downloadURL": "https://github.com/huami1314/orca-ios/releases/download/v0.1.2/Orca-iOS-v0.1.2-unsigned.ipa",
-          "size": 14888486,
+          "version": "0.1.3",
+          "date": "2026-11-24T13:10:03Z",
+          "localizedDescription": "## What's Changed\n* fix(workspace): show parent and child worktrees by @fobole-openthedoor in https://github.com/huami1314/orca-ios/pull/2\n* feat(pip): scroll compact agent status one row at a time by @fobole-openthedoor in https://github.com/huami1314/orca-ios/pull/3\n\n\n**Full Changelog**: https://github.com/huami1314/orca-ios/compare/v0.1.2...v0.1.3",
+          "downloadURL": "https://github.com/huami1314/orca-ios/releases/download/v0.1.3/Orca-iOS-v0.1.3-unsigned.ipa",
+          "size": 14908074,
           "minOSVersion": "26.0"
         }
       ]
@@ -1315,9 +1430,9 @@
       "developerName": "MakrSas",
       "subtitle": "Apple Silicon macOS Ventura running inside an iPhone app",
       "localizedDescription": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm machine, with the GPU drawn through Metal by reims-vgpu. Requires JIT, a signing tool that adds the increased memory limit, and a macOS VM you make yourself. It is slow — light scenes reach 30–40 fps at best.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/images/main.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/images/main.webp"
       ],
       "tintColor": "#F0C060",
       "versions": [
@@ -1337,11 +1452,11 @@
       "developerName": "bggRGjQaUbCoE",
       "subtitle": "使用Flutter开发的BiliBili第三方客户端",
       "localizedDescription": "使用Flutter开发的BiliBili第三方客户端",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/bangumi.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/dynamic.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/bangumi.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PiliPlus/images/dynamic.webp"
       ],
       "tintColor": "#73b480",
       "versions": [
@@ -1362,11 +1477,11 @@
       "developerName": "Eslzzyl",
       "subtitle": "基于 SwiftUI 的 Pixiv 第三方客户端",
       "localizedDescription": "基于 SwiftUI 开发的 Pixiv 第三方客户端，支持 iOS/iPadOS/macOS。提供插画、漫画与小说的推荐、排行榜、搜索与收藏，内置评论系统、批量下载、数据导入导出、深色模式与主题自定义。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/recommend.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/search.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/recommend.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Pixiv-SwiftUI/images/search.webp"
       ],
       "tintColor": "#13A1FD",
       "versions": [
@@ -1386,11 +1501,11 @@
       "developerName": "playportdev",
       "subtitle": "PC games on your iPhone. Natively, no streaming.",
       "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU — no PC, no cloud, no stream. Requires iOS 26 or later with JIT enabled through LocalDevVPN or StikDebug.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/library.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/game-page.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/library.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/images/game-page.webp"
       ],
       "tintColor": "#F5B544",
       "versions": [
@@ -1410,11 +1525,11 @@
       "developerName": "xmiguel911x",
       "subtitle": "PlayStation 3 emulator for iPhone and iPad",
       "localizedDescription": "A PlayStation 3 emulator for iPhone and iPad, built on RPCS3. Real games boot and play — the whole emulator core is exposed, with community game patches, trophies, play time, save data and 14 languages. Works with or without JIT.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/home.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/install.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/settings.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/install.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/settings.webp"
       ],
       "tintColor": "#5080D0",
       "versions": [
@@ -1434,11 +1549,11 @@
       "developerName": "liuchuancong",
       "subtitle": "基于 Flutter 的开源多平台直播聚合播放器",
       "localizedDescription": "纯粹直播（Pure Live）是一款基于 Flutter 的开源第三方多平台直播聚合播放器，支持 Bilibili、虎牙、斗鱼、快手、抖音、网易 CC、Twitch 等平台，以及自定义 M3U/M3U8 直播源。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/list.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/area.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/auth.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/list.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/area.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PureLive/images/auth.webp"
       ],
       "tintColor": "#50B0F0",
       "versions": [
@@ -1458,10 +1573,10 @@
       "developerName": "TarbleFR",
       "subtitle": "Emulation frontend for iPhone and iPad",
       "localizedDescription": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX, Dolphin, ARMSX2 and RPCS3 runtimes, JIT workflows and support for user-supplied firmware, keys and BIOS.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/images/settings.webp"
       ],
       "tintColor": "#50DD8B",
       "versions": [
@@ -1510,11 +1625,11 @@
       "developerName": "seanhowarthdev",
       "subtitle": "Choose, test and move your iPhone's reported location",
       "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or newer, and guided LocalDevVPN-compatible sessions for Wi-Fi and mobile data.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/welcome.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/fixed-location.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/walking-preview.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/welcome.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/fixed-location.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/images/walking-preview.webp"
       ],
       "tintColor": "#1090F0",
       "versions": [
@@ -1534,12 +1649,12 @@
       "developerName": "ekomlenovic",
       "subtitle": "Slide the cars, free the red one.",
       "localizedDescription": "A free sliding-block traffic puzzle: slide the cars and trucks along their lanes to drive the red car out. 700+ campaign levels, daily and weekly challenges, a level creator and optional self-hosted multiplayer — no ads, no in-app purchases, no tracking.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/gameplay.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/map.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/daily.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/creator.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/gameplay.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/map.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/daily.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RushHours/images/creator.webp"
       ],
       "tintColor": "#E5A019",
       "versions": [
@@ -1554,16 +1669,38 @@
       ]
     },
     {
+      "name": "RyukSign",
+      "bundleIdentifier": "ryuk2.anoxclan.com",
+      "developerName": "faroukbmiled",
+      "subtitle": "On-device iOS app signer and installer",
+      "localizedDescription": "RyukSign is an on-device app signer and installer for iOS, derived from Feather (by claration). Sign and install apps with a .p12 / .mobileprovision pair, manage tweaks (.dylib/.deb/.framework/.bundle/.appex), transfer files over HTTP/WebDAV, and track app updates — entirely on-device.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RyukSign/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RyukSign/images/main.webp"
+      ],
+      "tintColor": "#C96FAD",
+      "versions": [
+        {
+          "version": "4.1.0",
+          "date": "2026-11-18T16:37:57Z",
+          "localizedDescription": "## What's new in 4.1.0\n\n### New\n\n- Added Update All to Sources updates with search, a source picker for each app, and a choice to add, sign, or sign and install\n- Added long press actions to grouped updates, including Ignore Updates\n- Added a Versions to Delete option to Automatic Cleanup to also remove same or newer copies after installing\n- Added your Library's identifiers for the same app to the Identifier editor when signing\n\n### Improvements\n\n- Improved updates to keep the bundle identifier of your installed or signed copy, so they replace it instead of installing a second app\n\n### Fixes\n\n- Fixed apps missing their provisioning profile after signing and Remove Provisioning not working\n- Fixed large apps timing out or showing Failed while still installing\n- Fixed installs getting stuck halfway\n- Fixed tiny apps showing Failed after installing\n- Fixed the wrong app icon showing in Sources updates after another app finished updating\n- Fixed a black screen when using View in Sources from an update's source list\n\n\n## Install\n\n- Download **RyukSign.ipa** from the assets below and sign it, or\n- Add the RyukSign source to get updates in the app: `https://raw.githubusercontent.com/faroukbmiled/RyukSign/main/app-repo.json`\n\n**Full changelog:** https://github.com/faroukbmiled/RyukSign/compare/v4.0.0...v4.1.0\n\n<sub>Built 2026-11-18 from [`fc365a3`](https://github.com/faroukbmiled/RyukSign/commit/fc365a31fb0981681a4d9a03ceabf344f53191ed)</sub>",
+          "downloadURL": "https://github.com/faroukbmiled/RyukSign/releases/download/v4.1.0/RyukSign.ipa",
+          "size": 22041701,
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
+    {
       "name": "SceneBox",
       "bundleIdentifier": "app.scenebox.SceneBox",
       "developerName": "donbytyqi",
       "subtitle": "Torrent streaming client",
       "localizedDescription": "Torrent streaming client for iOS, iPadOS, tvOS and Mac (Catalyst), written in SwiftUI. Streams come from Stremio-compatible addons and play through a vendored libtorrent engine feeding VLC.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/profile.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/search.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SceneBox/images/profile.webp"
       ],
       "tintColor": "#E0E000",
       "versions": [
@@ -1583,10 +1720,10 @@
       "developerName": "SideStore Team",
       "subtitle": "Untethered alternative app store for iOS",
       "localizedDescription": "SideStore is an untethered, community-driven alternative app store for non-jailbroken iOS devices. It resigns and installs .ipa files with your personal Apple ID and refreshes them in the background, so sideloading no longer requires AltServer.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/apps.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/browse.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/apps.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SideStore/images/browse.webp"
       ],
       "tintColor": "#A405FA",
       "versions": [
@@ -1606,11 +1743,11 @@
       "developerName": "akinal5765-byte",
       "subtitle": "面向 iPhone 与 iPad 的原生胶片与印相模拟器",
       "localizedDescription": "一张照片要经历相机输入、胶片、显影、放印与扫描。选好胶片与相纸，再用曝光、显影反差、滤镜与画幅尺寸塑造影像，颗粒、光晕与片边都在同一条成像管线中生成。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/canvas.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/panel.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/materials.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/canvas.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/panel.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/materials.webp"
       ],
       "tintColor": "#FF9F0A",
       "versions": [
@@ -1630,7 +1767,7 @@
       "developerName": "June6699",
       "subtitle": "支持弹幕与 IPTV 的开源多平台直播聚合播放器",
       "localizedDescription": "简简单单的看直播（Simple Live）是一款使用 Flutter 开发的开源多平台直播聚合播放器，支持虎牙、斗鱼、哔哩哔哩、抖音、快手等平台的直播与弹幕，并内置公开的 IPTV 直播源。支持关注、标签、历史与弹幕屏蔽词，配置可导入导出，并可通过房间服务、局域网或 WebDAV 同步。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SimpleLive/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SimpleLive/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SimpleLive/images/home.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/SimpleLive/images/category.webp",
@@ -1654,9 +1791,9 @@
       "developerName": "ishtiaq156",
       "subtitle": "Your Mac's activity, at a glance",
       "localizedDescription": "View your Mac's system activity on iPhone over a local encrypted connection. A native, local-first system monitor with a lightweight Mac companion and a mobile dashboard.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/images/link.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Stats/images/link.webp"
       ],
       "tintColor": "#2090F0",
       "versions": [
@@ -1676,11 +1813,11 @@
       "developerName": "StikDebug",
       "subtitle": "On-device JIT enabler and device toolbox.",
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: requires LocalDevVPN and cannot be used inside LiveContainer to enable JIT for that same LiveContainer.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/scripts.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/settings.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/scripts.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/StikDebug/images/settings.webp"
       ],
       "tintColor": "#3B86F7",
       "versions": [
@@ -1700,20 +1837,20 @@
       "developerName": "nekohasekai",
       "subtitle": "The universal iOS automation platform",
       "localizedDescription": "Swipt automates this iPhone or iPad with JavaScript swiplets. It bundles a TypeScript SDK built on CoreDevice and the accessibility services, plus an MCP-compatible API for driving and debugging swiplets from your computer.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/swiplets.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/developer.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/pair.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/swiplets.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/developer.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/pair.webp"
       ],
       "tintColor": "#455A64",
       "versions": [
         {
           "version": "0.1.0",
-          "date": "2026-11-22T15:13:53Z",
-          "localizedDescription": "* Avoid redundant SpringBoard reads when dismissing setup alerts\n* Fix sideload setup stalling on permission alerts and reopening Settings\n* Discover vphone virtual machines without Launchpad\n* Request unicast mDNS responses in the CLI\n* Replace polling loops with event-driven notifications\n* Fix sideload setup opening Settings after the Always location alert\n* Stream discovered devices into the CLI device picker\n* Request Always location access for the background service\n* Fix pairing, language updates and container SQLite in the driver\n* Fix cellular data being detected on Wi-Fi\n* Fix wrong and unsourced claims in comments\n* Fix the inner display of iPhone Duo being ignored\n* Translate the CLI with i18next\n* Enable strict type checking for the CLI and the dev tools\n* Add contexts to the CLI translations\n* Rework the swipt-driver interface and add API tokens to swipt driver\n* Fix the driver build tool ignoring unpack options for ZIP archives\n* Replace the hand-written ZIP code of the CLI with fflate\n* Simplify screen streaming and recording\n* Share one atomic file write\n* Fix mDNS browsing and name conflict handling\n* Simplify the JavaScriptCore adapter\n* Add swipt driver to serve a device from the computer\n* Build the Linux and Windows driver with the WebKit of a Bun release\n* Port the driver and the CLI to Linux and Windows\n* Follow Apple's terms and style guides in the CLI translations\n* Improve automatic unlocking\n* Remove unsourced and misattributed claims from comments\n* Require iOS 26 for the accessibility API\n* Fix network lockdown connections closing without a heartbeat\n* Extend Swiplet icon colors\n* Add the chart and data grid components\n* Remove the guards against bad values from Swiplets\n* Add stream actions and the process API\n* Fix lifecycle and concurrency bugs\n* Simplify loopback VPN setup\n* Fix cancellation and validation bugs\n* Follow the Apple Style Guide in the CLI strings\n* Allow sideload install to downgrade Swipt\n* Fix fetch crashing in Swiplet interfaces\n* Clean up legacy designs\n* Pause services and the API while the device is unavailable\n* Replace the background audio with the developer service\n* Fix slow detection of unsupported networks\n* Resolve DNS with the system configuration on iOS\n* Detect the foreground app right after connecting\n* Connect touch input before the first tap\n* Send input without checking the lock state\n* Split the CLI commands into one file each\n* Fix the detection of the foreground app\n* Download swiplet updates on demand and show progress\n* Number enumerations with iota\n* Skip unchanged builds in dev install\n* Reformat code\n* Fix the position of the repository loading indicator\n* Fix choosing VPN addresses that do not loop back\n* Generate the CLI's Protobuf code as TypeScript\n* Move the CLI to TypeScript\n* Generate Protobuf code with buf\n* Version releases automatically and publish packages on release\n* Use the stable official swiplets feed in stable builds\n* Replace outdated Developer Disk Images\n* Fix tunnel uploads stalling on large TLS records\n* Fix loopback setup not advancing after the tunnel is found\n* Merge the release workflow into the build workflow\n* Fix publishing when the new draft is not listed yet\n* Reject outdated swiplets\n* Add available() and minimum iOS versions for swiplets\n* Support iOS 17.4\n* Fix calls hanging when their results can't be converted\n* Fix accessibility snapshots failing on infinite frames\n* Refactor the screen API\n* Cancel Vision requests when the call is aborted\n* Accept only file handles as files\n* Track the foreground app without accessibility and close idle accessibility connections\n* Fix setup failing to open Swipt\n* Fix slow device list\n* Fix screen-viewing notification dismissal\n* Add CONTRIBUTING.md\n* Fix leaked accessibility connections\n* Check the API level against the last stable release\n* Improve accessibility reads and taps\n* Add HTTP APIs\n* Restore missing localizations\n* Detect loopback VPNs with IPv6 addresses\n* Add swiplet API levels and an updates sheet\n* Add Tailscale support\n* Improve Cloudflare tunnel setup\n* Preserve error causes\n* Show that cellular data is unsupported in setup\n* Recover automation from dropped device connections\n* Update outdated Developer Disk Images\n* Add basic vphone support\n* Separate the app intents API and match the system dialogs\n* Move graphics to Objective-C in cgo\n* Fix setup failing while Swipt relaunches\n* Share the install flow between sideload and dev\n* Fix missing Developer Disk Image in IPA\n* Share the bundle identifier between sideload and dev builds\n* Preserve the swiplet order in swiplets.json\n* Add sideload setup command\n* Persist the simulated location\n* Add the official swiplet repository\n* Move preferredLocalizations to @swipt/api/localization\n* Remove the expo-localization shim from extensions\n* Add place search to swiplets\n* Add expo-maps to swiplets\n* Fix database change events firing before commit\n* Close the screen feed sooner when idle\n* Fix the swiplet runtime without the dev menu\n* Fix element taps and their timeline events\n* Fix updating Swipt on a locked device\n* Print API URLs after sideloading\n* Cache sideload downloads\n* Re-provision when the signing certificate is revoked\n* Add skills update workflow\n* Build only what changed\n* Localize the CLI\n* Add CLI translations\n* Move documentation to swipt.io\n* Fix sideload masking device errors\n* Clean up documentation content\n* Imprve the pairing guide\n* Fix pairing expiring in the background\n* Fix swipt-server published to GitHub releases\n* Localize the documentation\n* Add initial documentation\n* Add documentation site\n* Open Settings when the developer is not trusted\n* Reuse the ExpoModulesJSI build in the app\n* Improve CI caching and reliability\n* Only list sideloaded devices for update and uninstall\n* Add sideload command\n* Add app icon\n* Update DeveloperDiskImage\n* Add CLI REPL server\n* Format with bun fmt\n* Move simple development commands back to the Makefile\n* Add golangci-lint and fix lint issues\n* Fix the Swipt package versions in new projects\n* Fix the missing installed build check\n* Fix the REPL output format\n* Fix expo-sqlite missing APIs\n* Fix per-iteration let bindings in Swiplet interfaces\n* Fix bad values from Swiplets crashing Swipt\n* Build ExpoModulesCore from source\n* Give Swiplet interfaces the web APIs of extensions\n* Isolate Swiplet interfaces from each other\n* Support import in the REPL\n* Fix crypto.subtle missing algorithms\n* Fix TextDecoder missing legacy encodings\n* Load parts of the runtime on demand\n* Fix web APIs that didn't follow their standards\n* Remove the network APIs\n* Remove expo-file-system\n* Give each Swiplet and the REPL a cache directory\n* Fix native bindings leaking to Swiplets\n* Reduce the memory used by ASCII scripts\n* Choose the install device by name or UDID\n* Rework networking for Swiplets\n* Update frontend dependencies\n* Add SQLite support for Swiplets\n* Fix the CI build\n* Build and install the app with one command\n* Organize the CLI by what each command operates on\n* Make the SDK usable without helper scripts\n* Refactor onboarding UI\n* Add swiplet info, reordering and database tables\n* Hold taps for a millisecond and drop the hold option and the rest after drags\n* Add accessibility.tap, which taps an element once a tap would reach it\n* Retry a launch when the previous process is still exiting\n* Reopen the swiplet behind an error notification and give interfaces reportError\n* Localize the App Shortcuts phrases with strings files\n* Skip screen probes while the region keeps changing and trace recording.find\n* Recognize text at the density its minimum height needs\n* Fix touch moves dropped by the device\n* Share one downscaled frame between screen comparisons\n* Keep the input connection when unlocking an unlocked device\n* Keep the screen geometry while its orientation holds\n* Tell the foreground app from the device's process states\n* Trace screen matching, input and the screen feed\n* Give the REPL a data directory\n* Find matches in screen recordings\n* Localize the app and swiplets\n* Add screen.find\n* Align recording frames with the event clock\n* Recognize text in the device languages by default\n* Use the Remote Desktop mode for the screen feed\n* Cache the lock state for input\n* Replace accessibility locators with find and element actions\n* Add README\n* Report swiplet interface errors and logs\n* Fix the swiplet archive layout\n* Use a standard alert to confirm swiplet deletion\n* Support worklets in swiplet interfaces\n* Rebuild the runtime bundle when shared sources change\n* Apply Metro transforms in swiplet builds\n* Improve CI caching\n* Show swiplet interfaces full screen and snapshot the front app by default\n* Fix the publish check ignoring the CLI\n* Refactor the CLI\n* Import swiplets only as .swiplet files and simplify the swiplet list\n* Merge the Go CLI into the npm CLI\n* Describe sources in package.json\n* Publish packages only when they change\n* Localize repository names\n* Align repository rows with the add row\n* Fix URL fields\n* Add repository icons\n* Put Add Repository first\n* Copy the license when publishing\n* List swiplets relative to the source by default\n* Add swiplet repositories\n* Fix nightly package publishing\n* Add .swiplet files and the npm API packages\n* Restructure swiplet SDK and add shared file system API\n* Fix loopback VPN prompt\n* Move protobuf to internal/proto\n* Add swiplet\n* Separate local and Cloudflare MCP servers\n* Fix setText not registering as an edit in text views\n* Add Cloudflare tunnel for MCP server\n* Replace slog with sing logger\n* Fix workflow file list paths\n* Move workflow editor bar to keyboard accessory\n* Advertise MCP server via Bonjour and show local host name\n* Move automatic unlock to its own page and apply changes live\n* Simplify server start and stop with MCP\n* Init commit",
+          "date": "2026-11-24T11:27:59Z",
+          "localizedDescription": "* Fix secrets context in release_android job condition\n* Add Android release build and CI workflow\n* Support Android in sideload, setup, and dev commands\n* Add Android app and build tooling\n* Add Android core, device layer, graphics backend, and local app RPCs\n* Support multi-platform swiplet builds and availability checks in CLI\n* Split automation runtime and host by target OS with API level 4\n* Unify internal/graphics with event-driven Darwin cancellation\n* Extract api.Publish and api.Device\n* Extract tailscale.Controller and rename login Wait to Complete\n* Extract internal/fault, internal/screen, and internal/selector\n* Avoid redundant SpringBoard reads when dismissing setup alerts\n* Fix sideload setup stalling on permission alerts and reopening Settings\n* Discover vphone virtual machines without Launchpad\n* Request unicast mDNS responses in the CLI\n* Replace polling loops with event-driven notifications\n* Fix sideload setup opening Settings after the Always location alert\n* Stream discovered devices into the CLI device picker\n* Request Always location access for the background service\n* Fix pairing, language updates and container SQLite in the driver\n* Fix cellular data being detected on Wi-Fi\n* Fix wrong and unsourced claims in comments\n* Fix the inner display of iPhone Duo being ignored\n* Translate the CLI with i18next\n* Enable strict type checking for the CLI and the dev tools\n* Add contexts to the CLI translations\n* Rework the swipt-driver interface and add API tokens to swipt driver\n* Fix the driver build tool ignoring unpack options for ZIP archives\n* Replace the hand-written ZIP code of the CLI with fflate\n* Simplify screen streaming and recording\n* Share one atomic file write\n* Fix mDNS browsing and name conflict handling\n* Simplify the JavaScriptCore adapter\n* Add swipt driver to serve a device from the computer\n* Build the Linux and Windows driver with the WebKit of a Bun release\n* Port the driver and the CLI to Linux and Windows\n* Follow Apple's terms and style guides in the CLI translations\n* Improve automatic unlocking\n* Remove unsourced and misattributed claims from comments\n* Require iOS 26 for the accessibility API\n* Fix network lockdown connections closing without a heartbeat\n* Extend Swiplet icon colors\n* Add the chart and data grid components\n* Remove the guards against bad values from Swiplets\n* Add stream actions and the process API\n* Fix lifecycle and concurrency bugs\n* Simplify loopback VPN setup\n* Fix cancellation and validation bugs\n* Follow the Apple Style Guide in the CLI strings\n* Allow sideload install to downgrade Swipt\n* Fix fetch crashing in Swiplet interfaces\n* Clean up legacy designs\n* Pause services and the API while the device is unavailable\n* Replace the background audio with the developer service\n* Fix slow detection of unsupported networks\n* Resolve DNS with the system configuration on iOS\n* Detect the foreground app right after connecting\n* Connect touch input before the first tap\n* Send input without checking the lock state\n* Split the CLI commands into one file each\n* Fix the detection of the foreground app\n* Download swiplet updates on demand and show progress\n* Number enumerations with iota\n* Skip unchanged builds in dev install\n* Reformat code\n* Fix the position of the repository loading indicator\n* Fix choosing VPN addresses that do not loop back\n* Generate the CLI's Protobuf code as TypeScript\n* Move the CLI to TypeScript\n* Generate Protobuf code with buf\n* Version releases automatically and publish packages on release\n* Use the stable official swiplets feed in stable builds\n* Replace outdated Developer Disk Images\n* Fix tunnel uploads stalling on large TLS records\n* Fix loopback setup not advancing after the tunnel is found\n* Merge the release workflow into the build workflow\n* Fix publishing when the new draft is not listed yet\n* Reject outdated swiplets\n* Add available() and minimum iOS versions for swiplets\n* Support iOS 17.4\n* Fix calls hanging when their results can't be converted\n* Fix accessibility snapshots failing on infinite frames\n* Refactor the screen API\n* Cancel Vision requests when the call is aborted\n* Accept only file handles as files\n* Track the foreground app without accessibility and close idle accessibility connections\n* Fix setup failing to open Swipt\n* Fix slow device list\n* Fix screen-viewing notification dismissal\n* Add CONTRIBUTING.md\n* Fix leaked accessibility connections\n* Check the API level against the last stable release\n* Improve accessibility reads and taps\n* Add HTTP APIs\n* Restore missing localizations\n* Detect loopback VPNs with IPv6 addresses\n* Add swiplet API levels and an updates sheet\n* Add Tailscale support\n* Improve Cloudflare tunnel setup\n* Preserve error causes\n* Show that cellular data is unsupported in setup\n* Recover automation from dropped device connections\n* Update outdated Developer Disk Images\n* Add basic vphone support\n* Separate the app intents API and match the system dialogs\n* Move graphics to Objective-C in cgo\n* Fix setup failing while Swipt relaunches\n* Share the install flow between sideload and dev\n* Fix missing Developer Disk Image in IPA\n* Share the bundle identifier between sideload and dev builds\n* Preserve the swiplet order in swiplets.json\n* Add sideload setup command\n* Persist the simulated location\n* Add the official swiplet repository\n* Move preferredLocalizations to @swipt/api/localization\n* Remove the expo-localization shim from extensions\n* Add place search to swiplets\n* Add expo-maps to swiplets\n* Fix database change events firing before commit\n* Close the screen feed sooner when idle\n* Fix the swiplet runtime without the dev menu\n* Fix element taps and their timeline events\n* Fix updating Swipt on a locked device\n* Print API URLs after sideloading\n* Cache sideload downloads\n* Re-provision when the signing certificate is revoked\n* Add skills update workflow\n* Build only what changed\n* Localize the CLI\n* Add CLI translations\n* Move documentation to swipt.io\n* Fix sideload masking device errors\n* Clean up documentation content\n* Imprve the pairing guide\n* Fix pairing expiring in the background\n* Fix swipt-server published to GitHub releases\n* Localize the documentation\n* Add initial documentation\n* Add documentation site\n* Open Settings when the developer is not trusted\n* Reuse the ExpoModulesJSI build in the app\n* Improve CI caching and reliability\n* Only list sideloaded devices for update and uninstall\n* Add sideload command\n* Add app icon\n* Update DeveloperDiskImage\n* Add CLI REPL server\n* Format with bun fmt\n* Move simple development commands back to the Makefile\n* Add golangci-lint and fix lint issues\n* Fix the Swipt package versions in new projects\n* Fix the missing installed build check\n* Fix the REPL output format\n* Fix expo-sqlite missing APIs\n* Fix per-iteration let bindings in Swiplet interfaces\n* Fix bad values from Swiplets crashing Swipt\n* Build ExpoModulesCore from source\n* Give Swiplet interfaces the web APIs of extensions\n* Isolate Swiplet interfaces from each other\n* Support import in the REPL\n* Fix crypto.subtle missing algorithms\n* Fix TextDecoder missing legacy encodings\n* Load parts of the runtime on demand\n* Fix web APIs that didn't follow their standards\n* Remove the network APIs\n* Remove expo-file-system\n* Give each Swiplet and the REPL a cache directory\n* Fix native bindings leaking to Swiplets\n* Reduce the memory used by ASCII scripts\n* Choose the install device by name or UDID\n* Rework networking for Swiplets\n* Update frontend dependencies\n* Add SQLite support for Swiplets\n* Fix the CI build\n* Build and install the app with one command\n* Organize the CLI by what each command operates on\n* Make the SDK usable without helper scripts\n* Refactor onboarding UI\n* Add swiplet info, reordering and database tables\n* Hold taps for a millisecond and drop the hold option and the rest after drags\n* Add accessibility.tap, which taps an element once a tap would reach it\n* Retry a launch when the previous process is still exiting\n* Reopen the swiplet behind an error notification and give interfaces reportError\n* Localize the App Shortcuts phrases with strings files\n* Skip screen probes while the region keeps changing and trace recording.find\n* Recognize text at the density its minimum height needs\n* Fix touch moves dropped by the device\n* Share one downscaled frame between screen comparisons\n* Keep the input connection when unlocking an unlocked device\n* Keep the screen geometry while its orientation holds\n* Tell the foreground app from the device's process states\n* Trace screen matching, input and the screen feed\n* Give the REPL a data directory\n* Find matches in screen recordings\n* Localize the app and swiplets\n* Add screen.find\n* Align recording frames with the event clock\n* Recognize text in the device languages by default\n* Use the Remote Desktop mode for the screen feed\n* Cache the lock state for input\n* Replace accessibility locators with find and element actions\n* Add README\n* Report swiplet interface errors and logs\n* Fix the swiplet archive layout\n* Use a standard alert to confirm swiplet deletion\n* Support worklets in swiplet interfaces\n* Rebuild the runtime bundle when shared sources change\n* Apply Metro transforms in swiplet builds\n* Improve CI caching\n* Show swiplet interfaces full screen and snapshot the front app by default\n* Fix the publish check ignoring the CLI\n* Refactor the CLI\n* Import swiplets only as .swiplet files and simplify the swiplet list\n* Merge the Go CLI into the npm CLI\n* Describe sources in package.json\n* Publish packages only when they change\n* Localize repository names\n* Align repository rows with the add row\n* Fix URL fields\n* Add repository icons\n* Put Add Repository first\n* Copy the license when publishing\n* List swiplets relative to the source by default\n* Add swiplet repositories\n* Fix nightly package publishing\n* Add .swiplet files and the npm API packages\n* Restructure swiplet SDK and add shared file system API\n* Fix loopback VPN prompt\n* Move protobuf to internal/proto\n* Add swiplet\n* Separate local and Cloudflare MCP servers\n* Fix setText not registering as an edit in text views\n* Add Cloudflare tunnel for MCP server\n* Replace slog with sing logger\n* Fix workflow file list paths\n* Move workflow editor bar to keyboard accessory\n* Advertise MCP server via Bonjour and show local host name\n* Move automatic unlock to its own page and apply changes live\n* Simplify server start and stop with MCP\n* Init commit",
           "downloadURL": "https://github.com/swipt-automation/swipt/releases/download/nightly/Swipt.ipa",
-          "size": 48185875,
+          "size": 48245435,
           "minOSVersion": "16.4"
         }
       ]
@@ -1724,11 +1861,11 @@
       "developerName": "infinityf4p",
       "subtitle": "基于 SwiftUI 的第三方百度贴吧客户端",
       "localizedDescription": "原生 SwiftUI 构建的非官方贴吧 iOS 客户端。未登录访客即可浏览首页推荐、进吧与吧内列表、帖子详情与楼中楼、搜索、图片缩放与视频播放；登录后支持消息、关注与粉丝、收藏帖子（与官方客户端同步）、每日签到、点赞与发帖回复。另有关键词/用户/贴吧屏蔽、浏览历史与阅读位置恢复、iPad 双栏布局，以及 `tiebapure://` 深链接。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/thread.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/search.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/thread.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TiebaPure/images/search.webp"
       ],
       "tintColor": "#708070",
       "versions": [
@@ -1748,10 +1885,10 @@
       "developerName": "Suwayomi",
       "subtitle": "Native manga & manhwa reader for Suwayomi-Server",
       "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-device catalog, a rebuilt continuous-scroll webtoon reader, incognito mode, and 13 built-in themes.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/list.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/update.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/list.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/images/update.webp"
       ],
       "tintColor": "#7c7bff",
       "versions": [
@@ -1766,16 +1903,42 @@
       ]
     },
     {
+      "name": "TwinDesk",
+      "bundleIdentifier": "com.twindesk.ios",
+      "developerName": "Inuka Asith",
+      "subtitle": "Use your iPhone and your computers as one desk",
+      "localizedDescription": "TwinDesk turns your iPhone or iPad and your Mac, Windows PC or Linux computer into one desk: the computer's screen mirrored or used as a second display, files, clipboard, notifications, sound, camera and remote control, over Wi-Fi, USB or Bluetooth. It needs the TwinDesk desktop app on the computer.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/screen-1.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/screen-2.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/screen-3.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/screen-4.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/screen-6.webp"
+      ],
+      "tintColor": "#5E5CE6",
+      "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2026-11-15T04:43:39Z",
+          "localizedDescription": "## TwinDesk 3.2.1: TwinDesk pop-ups, a richer Messages, and Photos albums\r\n\r\n3.2.1 adds what's under **New in 3.2.1** below; everything after it is what 3.2 brought.\r\n\r\nhttps://twin-desk.vercel.app\r\n\r\n![TwinDesk 3.2](https://raw.githubusercontent.com/InukaAsith/TwinDesk/main/.github/assets/v32-banner.jpg)\r\n\r\nThe first release since 3.0. Your phone becomes a **Deck** of buttons for the computer, with a window space that arranges your windows. **TwinDesk Drive** keeps one folder the same on all your computers, with no cloud. **Multi-device is out of beta**, with every device's monitors on **one map**. There's also **search everywhere**, an **air mouse with a laser pointer**, **encrypted history**, **updates that install in place**, and a **tour** for someone new, in Multi-device too.\r\n\r\n### ⬇️ Download\r\n\r\n| Device | File |\r\n|---|---|\r\n| **Windows** (Intel / AMD) | [`TwinDesk-Setup-3.2.1.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-Setup-3.2.1.exe) |\r\n| **Windows** (ARM) | [`TwinDesk-Setup-3.2.1-arm64.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-Setup-3.2.1-arm64.exe) |\r\n| **Windows Portable** (Intel / AMD, no install) | [`TwinDesk-Portable-3.2.1.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-Portable-3.2.1.exe) |\r\n| **Windows Portable** (ARM, no install) | [`TwinDesk-Portable-3.2.1-arm64.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-Portable-3.2.1-arm64.exe) |\r\n| **Mac** (Apple silicon, M1 and later) | [`TwinDesk-3.2.1-arm64.dmg`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1-arm64.dmg) |\r\n| **Mac** (Intel) | [`TwinDesk-3.2.1-x64_Intel.dmg`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1-x64_Intel.dmg) |\r\n| **Mac** (Homebrew) | `brew install --cask inukaasith/twindesk/twindesk` |\r\n| **Linux** (any distro) | [`TwinDesk-3.2.1-x86_64.AppImage`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1-x86_64.AppImage) |\r\n| **Linux** (Debian / Ubuntu) | [`TwinDesk-3.2.1-amd64.deb`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1-amd64.deb), or our [APT repository](https://inukaasith.github.io/twindesk-apt) |\r\n| **Linux** (Arch) | [`twindesk-bin-3.2.1-1-x86_64.pkg.tar.zst`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/twindesk-bin-3.2.1-1-x86_64.pkg.tar.zst) |\r\n| **Android** | [`TwinDesk-3.2.1.apk`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1.apk) |\r\n| **Android** (full: notification access, SMS, Accessibility) | [`TwinDesk-3.2.1-full.apk`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-3.2.1-full.apk) |\r\n| **iPhone and iPad** (sideload) | [`TwinDesk.ipa`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk.ipa) |\r\n| **Any browser** | Turn on **TwinDesk Web** on a computer, then type `twindesk.local` |\r\n\r\n#### Full KVM edition\r\n\r\nThe mouse and keyboard also reach UAC prompts, the lock screen, Ctrl+Alt+Del and, with System-wide, the login screen, through a system service. It installs over the normal TwinDesk (the same app with the service added), so a computer has one or the other.\r\n\r\n| Device | File |\r\n|---|---|\r\n| **Windows** (Intel / AMD) | [`TwinDesk-FullKVM-Setup-3.2.1.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-FullKVM-Setup-3.2.1.exe) |\r\n| **Windows** (ARM) | [`TwinDesk-FullKVM-Setup-3.2.1-arm64.exe`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-FullKVM-Setup-3.2.1-arm64.exe) |\r\n| **Linux** (any distro) | [`TwinDesk-FullKVM-3.2.1-x86_64.AppImage`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-FullKVM-3.2.1-x86_64.AppImage) |\r\n| **Linux** (Debian / Ubuntu) | [`TwinDesk-FullKVM-3.2.1-amd64.deb`](https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk-FullKVM-3.2.1-amd64.deb) |\r\n\r\n**TwinDesk Portable** runs without installing: run normally it does everything that needs no administrator, run as administrator it also does the firewall, folder sharing and Wake on LAN.\r\n\r\nAlready have TwinDesk? The in-app updater picks the right file for your computer, and from 3.2 on, **Install now** updates in place, and each edition updates to its own (Full KVM to Full KVM, Portable to Portable). Update every device you pair: 3.2 still talks to 3.0, but the new features switch on only when both sides have 3.2.\r\n\r\n> **Windows:** the installers aren't code-signed yet (signing is on its way). If SmartScreen stops it, choose **More info › Run anyway**.\r\n> **iPhone and iPad:** the IPA is unsigned. Install it with SideStore, AltStore or any signing tool, or let the computer sign it with your own Apple ID (General › TwinDesk iPhone, opt in).\r\n\r\n---\r\n\r\n### 🆕 New in 3.2.1\r\n\r\nIdeas from [@rahulpatel902](https://github.com/rahulpatel902)'s list of suggestions (#231), in TwinDesk's own look.\r\n\r\n- **TwinDesk pop-ups** (Notifications › Showing here › Pop-ups): pick TwinDesk's own small window for your phone's notifications. Type a **Reply** right in it, use the app's own buttons (Mark as read, Mute…), see the notification's **picture**, **Copy** a one-time code, and watch a download or a timer fill its **progress bar** in place. The system's notifications stay the default, the lightest choice: with them the phone sends no pictures or progress.\r\n- **Buttons on Linux's own notifications:** the phone app's buttons and a code's Copy, as on a Mac.\r\n- **Each app its own way:** Show, No pop-ups (only in Recent) or Hide for each phone app.\r\n- **Pause pop-ups on a schedule**, overnight too. Notifications still go in Recent and Messages.\r\n- **Copy codes by themselves:** a one-time code goes on the clipboard when it arrives, never to your other devices or the clipboard history, and comes off it after 2 minutes.\r\n- **Messages:** contact and chat pictures with the app's badge, a search box, **Delete** for a chat or a thread, and **Apps…** to choose which chat apps show. \"Sending video…\" and other progress notifications no longer turn into chats.\r\n- **Photos:** your phone's **albums** in a sidebar, with covers and counts. **Open**, and on Windows **Open with…**, from the viewer.\r\n- **The media card** stays compact: its chevron slides open back and forward 10 s, the phone's volume and where the sound plays, tinted by the artwork if you like (General).\r\n- **Calls pause the music** (Calls › Sound): a call pauses what plays on the computer, and it plays again when the call ends.\r\n- **Camera:** Mirror, quality from 720p to 4K, the light, zoom and a snapshot for the phone's camera.\r\n- **Keep on top:** a pin in the toolbar of the phone's screen and a computer's shared screen keeps that window over the others.\r\n- **Skip adbd** (Mirroring, off unless you switch it on): over Wi-Fi the phone's screen, sound and input go straight to the computer, encrypted, instead of through wireless debugging's adbd. Its biggest gain is while adb is busy: with a big file going to the phone, a tap showed up in about 90 ms instead of 210 ms. If the phone can't be reached directly, it goes through wireless debugging as before.\r\n- **Low latency** (Mirroring, off): asks the phone's video encoder to send each frame as soon as it's ready. Some phones ignore it.\r\n- **Fixed:** in Multi-device on a Mac, the Camera page's picture showed a broken image.\r\n\r\nAndroid needs 3.2.1 too for pictures, progress bars, contact pictures and albums; with an older phone app the rest works as before.\r\n\r\n---\r\n\r\n### 🎛️ The Deck\r\n\r\nA Stream Deck style grid of buttons on the phone (Android, iPhone and Web) for the computer: spaces and pages, tiles of any size, live sliders for sound and brightness, Bluetooth devices, the sound output and microphone, and files and saved scripts opened like a double-click (never through a shell). Full screen, it shows widgets: a clock, the computer's media player, CPU, RAM and temperature.\r\n\r\n- **The window space**: the computer's windows on the phone. Tap an app, pick a layout and they're arranged. Save a few apps as a set on the shelf and arrange them again with one tap. Snap, minimize, maximize and close from the phone.\r\n\r\n### 🗂️ TwinDesk Drive\r\n\r\nOne folder kept the same on your computers, with no cloud. Each keeps its own copy and works offline, and they swap what changed when they connect. A file changed on two at once keeps both, and deleted files go to the Trash or Recycle Bin. Off until you turn it on in File Sharing. Mac, Windows and Linux, one-to-one and Multi-device.\r\n\r\n### 🖥️ Multi-device, out of beta\r\n\r\n- **The monitor map** (#225): every device's monitors in one picture, arranged by dragging. The pointer crosses only where monitors touch, keeps its place along the edge, and goes through an offline device to the next one.\r\n- **Everything one-to-one has**: fast files (fx and fx2), Camera, Remote, Deck, ReZume with any one device, TwinDesk iPhone, Modules, every device's notifications with Reply and one-time codes, clipboard pictures, Now Playing both ways, and pairing a phone with a QR code.\r\n- **Mouse and keyboard over Bluetooth** between Macs and Windows PCs.\r\n- **The tour and What's new** now open in Multi-device too.\r\n\r\n### ✨ Everywhere\r\n\r\n- **Air mouse and Presentation** in Remote: point the phone to move the pointer, run your slides with a laser pointer. A three-finger tap is a middle click.\r\n- **Hold a key to cross** (#230): pick a key on the Mouse page and the pointer leaves the computer at its edge only while you hold it. In Multi-device it's for that computer's own mouse or trackpad.\r\n- **Emergency return** (#178): a shortcut (Control+Alt+Command+Esc, Win or Super on a PC, or your own) that brings the mouse and keyboard home and turns sharing off, whatever the other side is doing. One-to-one and Multi-device.\r\n- **Search everywhere** (⌘K, Ctrl+K on Windows and Linux): settings, shortcuts and features found by what they do.\r\n- **Arrange** the sidebar and the phone's bottom bar, and switch off pages you don't use in **General › Modules** (they aren't loaded).\r\n- **Clipboard and notification history kept across restarts**, encrypted, for a day up to a year. Off until you turn it on.\r\n- **Updates install in place** on Mac, Windows, Android, and iPhone (re-signed by the computer).\r\n- **TwinDesk iPhone** (opt in): the computer signs TwinDesk for iPhone with your own free Apple ID and keeps it refreshed.\r\n- **A tour for someone new**, and **What's new** after an update, now with the changes and fixes too. Both in General › Tutorial.\r\n- **Linux touchpad** (#222): tap to click, two-finger scrolling and pinch on the other device, read from your desktop's own settings.\r\n- **Pick which Mac display an Android phone mirrors** (#221), and **a custom size for Extend** on Windows (#226).\r\n- **Phone-to-phone sound** between two Android phones (#205), and **Photos** has Copy and Share.\r\n\r\n![What's new in 3.2](https://raw.githubusercontent.com/InukaAsith/TwinDesk/main/.github/assets/v32-whats-new.jpg)\r\n\r\n### 📦 Installing\r\n\r\n- **APT repository** for Debian, Ubuntu, Mint and Pop!_OS, updated by `apt upgrade`.\r\n- **F-Droid** build (the full app without Google's code scanner and without the updater).\r\n\r\n### 🩹 Fixes\r\n\r\n- **Coming back to a PC with two monitors**: the pointer comes back on the edge that touches the device it left, also after a fast move.\r\n- **Clipboard**: copying the same text again after the other side copied something sends it again (#223, #227).\r\n- **Pinch on Android** from a Mac trackpad or a Linux touchpad (#228).\r\n- **Phone keyboard layouts in Multi-device**: Type as a hardware keyboard on Windows and Linux, so AZERTY and other layouts reach Android as they are (#188).\r\n- **Overview cards** side by side end level (#224). **Arrange** has Search's dim and solid panel instead of a blur.\r\n- Android reconnects after a long Wi-Fi interruption (#192, #217), and its settings refresh at once (#190, #191, #214).\r\n- Mac: the screen capture names its display (#198, #199), General asks for a missing screen permission (#200, #201), the viewer fits the Android window (#215), and Universal Clipboard no longer delays pasting (#211).\r\n- Windows: right Shift from some keyboards is no longer lost (#212), clicking TwinDesk's own window buttons from the other computer no longer freezes the session (#203, #208, #209), and Multi-device starts when Windows blocks the helper (#216).\r\n- Multi-device: sound stays on its device when the selection moves (#194, #196), and per-pair switches stay in step (#193, #195).\r\n- Linux: Open at login works under systemd's autostart generator (#189, #202). Nix starts with its window and tray again (#213).\r\n\r\n### 🙏 Thanks\r\n\r\nSuggestions from [@rahulpatel902](https://github.com/rahulpatel902) (#231). Code from [@alexfoxtm](https://github.com/alexfoxtm) (#190, #199, #201, #214, #215, #217, #221, #227, #228), [@youyouhdhd](https://github.com/youyouhdhd) (#226), [@pengusto](https://github.com/pengusto) (#178, #230), [@hughesyadaddy](https://github.com/hughesyadaddy) (#195, #196), [@ShivanshuKantPrasad](https://github.com/ShivanshuKantPrasad) (#205, #213), [@Yashkush06](https://github.com/Yashkush06) (#197) and [@YashvanthSankar](https://github.com/YashvanthSankar) (#202). Reported by [@ElMahaster](https://github.com/ElMahaster) (#188).\r\n\r\nThe full list is in the [changelog](https://github.com/InukaAsith/TwinDesk/blob/main/CHANGELOG.md).\r\n\r\n---\r\n\r\nEarlier release: [3.0.0 notes](https://github.com/InukaAsith/TwinDesk/releases/tag/v3.0.0) (iPhone and iPad app, TwinDesk Web, phone to phone).",
+          "downloadURL": "https://github.com/InukaAsith/TwinDesk/releases/download/v3.2.1/TwinDesk.ipa",
+          "size": 3706522,
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
+    {
       "name": "UTM",
       "bundleIdentifier": "com.utmapp.UTM",
       "developerName": "osy",
       "subtitle": "Virtual machines for iOS",
       "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at https://getutm.app/\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/settings.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/display.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/UTM/images/display.webp"
       ],
       "tintColor": "#1a2cc2",
       "versions": [
@@ -1795,11 +1958,11 @@
       "developerName": "CyrilPeng",
       "subtitle": "跨平台漫画阅读器",
       "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/home.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/explorer.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/search.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/explorer.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/images/search.webp"
       ],
       "tintColor": "#2090E0",
       "versions": [
@@ -1820,11 +1983,11 @@
       "developerName": "vrcm-team",
       "subtitle": "Bring your VRChat social life to your phone",
       "localizedDescription": "VRCM is a cross-platform VRChat companion focused on social connection and convenience. Explore your social circles, remember time spent together, and move smoothly from shared links to worlds, interactions, and real-world meetups.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Friend-Network.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Gallery-Mobile.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Meetup-Card.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Friend-Network.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Gallery-Mobile.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/VRCM/images/Feature-Meetup-Card.webp"
       ],
       "tintColor": "#6451f1",
       "versions": [
@@ -1844,9 +2007,9 @@
       "developerName": "kolbicz",
       "subtitle": "File manager for iOS 26 and 27 (worse_query)",
       "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. Browse other apps' containers, edit plists, hex and SQLite databases, and back up, restore or clear app data without a jailbreak or kernel exploit.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/home.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/home.webp"
       ],
       "tintColor": "#1E8FC7",
       "versions": [
@@ -1866,11 +2029,11 @@
       "developerName": "Kianuni",
       "subtitle": "iOS 沙盒越权检测与侧载 IPA 审查工具",
       "localizedDescription": "面向 iOS 26.2+ / iOS 27.x 的零依赖、100% 物理只读沙盒逃逸检测引擎、Mach-O 静态二进制审计与多端固件 CVE 防护系统",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/dashboard.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/firmware.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/ipa.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/dashboard.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/firmware.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/images/ipa.webp"
       ],
       "tintColor": "#00C7A5",
       "versions": [
@@ -1890,7 +2053,7 @@
       "developerName": "hseons",
       "subtitle": "无需越狱的 App 数据备份与缓存清理工具",
       "localizedDescription": "一款面向 iOS 26+ 的开源 App 数据管理、备份与单应用缓存清理工具，无需越狱。可把某个 App 的数据目录打包成可校验的备份并写回原 App，也能只清理所选 App 的缓存与临时目录。所有数据都在本机处理，没有账号、没有统计、没有云端。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/images/apps.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQManager/images/cleaner.webp",
@@ -1915,11 +2078,11 @@
       "developerName": "MchinaMd57764",
       "subtitle": "File browser and maintenance panel for your own app containers",
       "localizedDescription": "An iOS toolkit built on an App Group container-query primitive: browse, clean and inspect your own app data containers without a jailbreak. Includes a file browser, cache scan, device info, a MobileGestalt cache panel and data lenses, with a bilingual UI and iPhone/iPad layouts.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/files.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/settings.jpeg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/tweaks.jpeg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/files.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQToolkit/images/tweaks.webp"
       ],
       "tintColor": "#6090D0",
       "versions": [
@@ -1934,15 +2097,40 @@
       ]
     },
     {
+      "name": "WrapPin",
+      "bundleIdentifier": "com.suversal.wrappin",
+      "developerName": "suversal",
+      "subtitle": "本机虚拟定位与步行路线测试工具",
+      "localizedDescription": "WrapPin 是 Sean Howarth 原项目 Roam Control 的非官方社区中文分支，可通过设备配对在 iPhone 上选择固定位置、模拟步行或驾车路线，并在停止时恢复真实位置。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/images/fixed-location.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/images/walking-active.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/images/settings.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/images/privacy.webp"
+      ],
+      "tintColor": "#1060F0",
+      "versions": [
+        {
+          "version": "1.0.26",
+          "date": "2026-11-24T07:09:57Z",
+          "localizedDescription": "## WrapPin 1.0.26（Build 96）\n\n- **当前模拟目标** · 固定模拟时，地图单独标出当前目标。选中其他地点后，点「查看模拟位置」可以回到当前目标。#57\n- **精确选点** · 打开地图上的准星按钮，拖动地图或用摇杆微调。点「确认选点」后，再点「开始模拟定位」或「更换模拟位置」应用坐标。#58 #59\n- **选点面板** · 地点标题、收藏和清除按钮固定在面板上方。空间不足时可以滚动下方选项。\n- **收藏重命名** · 在「收藏与历史」里点收藏旁的铅笔，改名后保留原坐标和地址。#61\n\n### 安装\n\n- **Standard** · 使用 SideStore 等工具签装，运行时使用兼容的外部设备隧道。\n- **Tunnel** · 主 App 和内置扩展都需要支持 Packet Tunnel 的签名配置。\n\n两版均为未签名 IPA，支持 iOS/iPadOS 18.0 及以上。覆盖升级时使用原版本类型和签名身份。[安装说明](https://github.com/suversal/WrapPin/blob/v1.0.26/Documentation/Installation.zh-CN.md)\n\n[简体中文更新说明](https://github.com/suversal/WrapPin/blob/v1.0.26/Documentation/Release-1.0.26.zh-CN.md) · [English release notes](https://github.com/suversal/WrapPin/blob/v1.0.26/Documentation/Release-1.0.26.md)",
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.26/WrapPin-Standard-1.0.26-build96-unsigned.ipa",
+          "size": 7161177,
+          "minOSVersion": "18.0"
+        }
+      ]
+    },
+    {
       "name": "YouProEXTRA",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "alibusut",
       "subtitle": "YouTube mod with customizable tweaks",
       "localizedDescription": "YouPro mod of YouTube for iOS. Includes no ads, background playback, downloads, iSponsorBlock, PiP, and a host of customizable tweaks.",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/list.jpg",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/play.jpg"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/list.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/YouProEXTRA/images/play.webp"
       ],
       "tintColor": "#FF0000",
       "versions": [
@@ -1963,11 +2151,11 @@
       "developerName": "huamurui",
       "subtitle": "轻量、纯净的第三方知乎客户端",
       "localizedDescription": "基于 React Native (Expo) 构建的轻量级第三方知乎客户端，无广告，支持多账号切换、游客模式、全局主题色自定义与深色模式，可查看热榜、推荐、回答、文章、想法与评论区，并支持从 GitHub Releases 自动更新。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/icon.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/home.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/hot.png"
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/home.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/detail.webp",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ZhihuMinusMinus/images/hot.webp"
       ],
       "tintColor": "#0084ff",
       "versions": [
@@ -2030,14 +2218,36 @@
   "news": [
     {
       "appID": "com.thm.orcaios",
-      "title": "Orca 0.1.2 · 24 Nov 2026",
-      "identifier": "Orca-release-v0.1.2",
-      "caption": "Orca 0.1.2 is available.",
-      "date": "2026-11-24T07:00:40Z",
+      "title": "Orca 0.1.3 · 24 Nov 2026",
+      "identifier": "Orca-release-v0.1.3",
+      "caption": "Orca 0.1.3 is available.",
+      "date": "2026-11-24T13:10:03Z",
       "tintColor": "#151619",
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orca/images/news.webp",
       "notify": true,
-      "url": "https://github.com/huami1314/orca-ios/releases/tag/v0.1.2"
+      "url": "https://github.com/huami1314/orca-ios/releases/tag/v0.1.3"
+    },
+    {
+      "appID": "io.nekohasekai.swipt",
+      "title": "Swipt 0.1.0 · 24 Nov 2026",
+      "identifier": "Swipt-release-nightly",
+      "caption": "Swipt 0.1.0 is available.",
+      "date": "2026-11-24T11:27:59Z",
+      "tintColor": "#455A64",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/swipt-automation/swipt/releases/tag/nightly"
+    },
+    {
+      "appID": "com.suversal.wrappin",
+      "title": "WrapPin 1.0.26 · 24 Nov 2026",
+      "identifier": "WrapPin-release-v1.0.26",
+      "caption": "WrapPin 1.0.26 is available.",
+      "date": "2026-11-24T07:09:57Z",
+      "tintColor": "#1060F0",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WrapPin/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/suversal/WrapPin/releases/tag/v1.0.26"
     },
     {
       "appID": "io.nekohasekai.screensharing",
@@ -2150,17 +2360,6 @@
       "url": "https://github.com/missuo/kumone/releases/tag/v0.3.38"
     },
     {
-      "appID": "io.nekohasekai.swipt",
-      "title": "Swipt 0.1.0 · 22 Nov 2026",
-      "identifier": "Swipt-release-nightly",
-      "caption": "Swipt 0.1.0 is available.",
-      "date": "2026-11-22T15:13:53Z",
-      "tintColor": "#455A64",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/images/news.webp",
-      "notify": true,
-      "url": "https://github.com/swipt-automation/swipt/releases/tag/nightly"
-    },
-    {
       "appID": "com.example.kazumi",
       "title": "Kazumi 2.4.6 · 22 Nov 2026",
       "identifier": "Kazumi-release-2.4.6",
@@ -2249,6 +2448,17 @@
       "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/nightly"
     },
     {
+      "appID": "com.yoroin.globalrefresh",
+      "title": "GlobalRefresh 1.1.2 · 20 Nov 2026",
+      "identifier": "GlobalRefresh-release-v1.1.2",
+      "caption": "GlobalRefresh 1.1.2 is available.",
+      "date": "2026-11-20T10:21:33Z",
+      "tintColor": "#177FFD",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/GlobalRefresh/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/Yoroin/GlobalRefresh-PiP/releases/tag/v1.1.2"
+    },
+    {
       "appID": "com.wqguard.app",
       "title": "WQGuard 1.3.6 · 20 Nov 2026",
       "identifier": "WQGuard-release-v1.3.6",
@@ -2291,6 +2501,17 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/HermesEnabler/images/news.webp",
       "notify": true,
       "url": "https://github.com/pookjw/HermesEnabler/releases/tag/1.6.3"
+    },
+    {
+      "appID": "ryuk2.anoxclan.com",
+      "title": "RyukSign 4.1.0 · 18 Nov 2026",
+      "identifier": "RyukSign-release-v4.1.0",
+      "caption": "RyukSign 4.1.0 is available.",
+      "date": "2026-11-18T16:37:57Z",
+      "tintColor": "#C96FAD",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RyukSign/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/faroukbmiled/RyukSign/releases/tag/v4.1.0"
     },
     {
       "appID": "org.animeko.animeko",
@@ -2390,6 +2611,17 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Rich4Renew/images/news.webp",
       "notify": true,
       "url": "https://github.com/iam567/rich4-renew-app/releases/tag/v1.2.4"
+    },
+    {
+      "appID": "com.twindesk.ios",
+      "title": "TwinDesk 3.2.1 · 15 Nov 2026",
+      "identifier": "TwinDesk-release-v3.2.1",
+      "caption": "TwinDesk 3.2.1 is available.",
+      "date": "2026-11-15T04:43:39Z",
+      "tintColor": "#5E5CE6",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/TwinDesk/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/InukaAsith/TwinDesk/releases/tag/v3.2.1"
     },
     {
       "appID": "com.example.piliplus",
@@ -2678,6 +2910,17 @@
       "url": "https://github.com/Eslzzyl/Pixiv-SwiftUI/releases/tag/v0.16.3"
     },
     {
+      "appID": "tv.danmaku.bilianime",
+      "title": "BiliSponsorBlock 9.10.0 · 19 Oct 2026",
+      "identifier": "BiliSponsorBlock-release-v2.0.0",
+      "caption": "BiliSponsorBlock 9.10.0 is available.",
+      "date": "2026-10-19T07:09:39Z",
+      "tintColor": "#FB7299",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BiliSponsorBlock/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/lcmovie/BiliSponsorBlock-ios/releases/tag/v2.0.0"
+    },
+    {
       "appID": "com.dddevid.musly",
       "title": "Musly 2.0.3 · 18 Oct 2026",
       "identifier": "Musly-release-v2.0.3",
@@ -2777,6 +3020,17 @@
       "url": "https://github.com/altstoreio/AltStore/releases/tag/v2.3"
     },
     {
+      "appID": "dev.twilitrealm.dusk",
+      "title": "Dusklight 2.0.3 · 30 Sep 2026",
+      "identifier": "Dusklight-release-v2.0.3",
+      "caption": "Dusklight 2.0.3 is available.",
+      "date": "2026-09-30T07:06:44Z",
+      "tintColor": "#C4901E",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Dusklight/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/TwilitRealm/dusklight/releases/tag/v2.0.3"
+    },
+    {
       "appID": "com.makr.orchard",
       "title": "Orchard 0.2 · 25 Sep 2026",
       "identifier": "Orchard-release-v0.2",
@@ -2843,6 +3097,17 @@
       "url": "https://github.com/verback2308/Opaline/releases/tag/1.12.0"
     },
     {
+      "appID": "com.beans.app",
+      "title": "Beans Music 1.6.6 · 06 Sep 2026",
+      "identifier": "Beans Music-release-v1.6.6",
+      "caption": "Beans Music 1.6.6 is available.",
+      "date": "2026-09-06T12:41:32Z",
+      "tintColor": "#F0D050",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Beans-Music/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/XIaodou0416/Beans-Music/releases/tag/v1.6.6"
+    },
+    {
       "appID": "com.miguel.psx3ios",
       "title": "PSX3IOS 0.2.7-beta · 01 Sep 2026",
       "identifier": "PSX3IOS-release-v0.2.7-beta",
@@ -2852,6 +3117,17 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/PSX3IOS/images/news.webp",
       "notify": true,
       "url": "https://github.com/xmiguel911x/PSX3IOS/releases/tag/v0.2.7-beta"
+    },
+    {
+      "appID": "io.github.johnny901901901.applesauce",
+      "title": "Applesauce 0.4.2 · 15 Aug 2026",
+      "identifier": "Applesauce-release-ios-v0.4.2",
+      "caption": "Applesauce 0.4.2 is available.",
+      "date": "2026-08-15T23:21:28Z",
+      "tintColor": "#F01F14",
+      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Applesauce/images/news.webp",
+      "notify": true,
+      "url": "https://github.com/0xjohnnydev/Applesauce/releases/tag/ios-v0.4.2"
     },
     {
       "appID": "com.ahmedbafkir.dlipa",
@@ -2885,17 +3161,6 @@
       "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iTorrent/images/news.webp",
       "notify": true,
       "url": "https://github.com/XITRIX/iTorrent/releases/tag/v2.2.0-1"
-    },
-    {
-      "appID": "com.kdt.livecontainer",
-      "title": "LiveContainer+SideStore 3.8.0 · 17 Jul 2026",
-      "identifier": "LiveContainer+SideStore-release-3.8.0",
-      "caption": "LiveContainer+SideStore 3.8.0 is available.",
-      "date": "2026-07-17T07:44:20Z",
-      "tintColor": "#0784FC",
-      "imageURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/news.webp",
-      "notify": true,
-      "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.8.0"
     },
     {
       "appID": "thewonderofyou.Feather",

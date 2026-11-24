@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **83** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **84** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -81,8 +81,9 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
-| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.9` | iOS 15.0 |
+| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.10` | iOS 15.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
+| Orca | iPhone client for Orca, the agent development environment | `0.1.2` | iOS 26.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.1` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.3` | iOS 17.0 |

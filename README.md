@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **98** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **105** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -39,14 +39,16 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | Applesauce | A playful emulator for iOS | `0.4.2` | iOS 15.0 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.0-nightly.20261124.1937` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.1` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
-| BCD | Windows games on iPhone and iPad | `0.1.712` | iOS 18.0 |
+| BCD | Windows games on iPhone and iPad | `0.1.721` | iOS 18.0 |
 | Beans Music | 使用 SwiftUI 开发的多平台音乐播放器 | `1.6.6` | iOS 15.0 |
 | BiliSponsorBlock | 官方哔哩哔哩 iOS App 的 SponsorBlock 空降助手插件 | `9.10.0` | iOS 15.0 |
 | BitChord | Open-source YouTube Music client for iPhone and iPad | `1.0.2` | iOS 17.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.1.0` | iOS 15.0 |
+| Chance | Imageboard browser for iOS and Android | `1.2.9` | iOS 15.0 |
 | Cloudn | 网盘分享与短视频高速解析下载 | `1.4.2` | iOS 17.0 |
+| D2R Mobile | Play Diablo II: Resurrected on iPhone and iPad | `1.0` | iOS 26.0 |
 | Dartotsu | Multiplatform anime and manga tracking client | `1.2.2` | iOS 15.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.8.1` | iOS 15.0 |
@@ -83,19 +85,22 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Mangayomi | Read manga, novels, and watch anime | `0.9.97` | iOS 未声明 |
 | ManicEMU | All-in-one retro game emulator for iOS | `2.0.2` | iOS 15.0 |
 | MD3Music | 基于酷狗音乐 API 的 Material 3 音乐播放器 | `6.2.0` | iOS 15.0 |
+| Melee-PC | Native port of Super Smash Bros. Melee | `0.4.2` | iOS 14.0 |
 | MeloX | 使用 SwiftUI 开发的网易云音乐第三方客户端 | `1.4.1` | iOS 26.0 |
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mori | Client-side media downloader for 16 platforms | `4.6.1` | iOS 14.0 |
 | Mornye | Hi-res music player with downloads | `5.4.5` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.3` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.4` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
+| NusaNX | Convert Switch game containers into native iOS/iPadOS apps on device | `0.1.1-beta` | iOS 15.0 |
 | Nuvio | Open-source media client for your own sources | `1.0.1` | iOS 16.1 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
 | Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.10` | iOS 15.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
 | Orca | iPhone client for Orca, the agent development environment | `0.1.4` | iOS 26.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
+| Photos Backup | On-device Google Photos backup | `0.3.8` | iOS 15.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.1` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.3` | iOS 17.0 |
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.5.0` | iOS 26.0 |
@@ -106,9 +111,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Rush Hours | Slide the cars, free the red one. | `2.2.2` | iOS 16.4 |
 | RyukSign | On-device iOS app signer and installer | `4.1.0` | iOS 16.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
+| Shirox | Personal anime and manga library manager for iOS | `1.0.6` | iOS 15.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |
 | Silverphase | 面向 iPhone 与 iPad 的原生胶片与印相模拟器 | `1.1.1` | iOS 18.0 |
 | Simple Live | 支持弹幕与 IPTV 的开源多平台直播聚合播放器 | `1.13.3` | iOS 13.0 |
+| Spotube | Cross-platform open-source music streaming app | `6.0.0` | iOS 18.2 |
 | Stats | Your Mac's activity, at a glance | `0.3.18` | iOS 17.0 |
 | StikDebug | On-device JIT enabler and device toolbox. | `3.2.2` | iOS 17.4 |
 | Swipt | The universal iOS automation platform | `0.1.0` | iOS 16.4 |

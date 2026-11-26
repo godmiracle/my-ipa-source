@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **105** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **106** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
 | Applesauce | A playful emulator for iOS | `0.4.2` | iOS 15.0 |
-| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.1` | iOS 17.0 |
+| ARMSX2 | PlayStation 2 emulator for ARM64 | `2.6.1-nightly.20261125.2101` | iOS 17.0 |
 | Asspp | The ultimate multi-region App Store manager | `4.2.0` | iOS 17.0 |
 | BCD | Windows games on iPhone and iPad | `0.1.721` | iOS 18.0 |
 | Beans Music | 使用 SwiftUI 开发的多平台音乐播放器 | `1.6.6` | iOS 15.0 |
@@ -73,7 +73,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iRAM+ | Enable Increased Memory Limit for sideloaded apps on device | `1.3.1` | iOS 16.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
-| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.6` | iOS 13.0 |
+| Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.7` | iOS 13.0 |
 | Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.1.3` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.38` | iOS 16.0 |
@@ -96,7 +96,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | NusaNX | Convert Switch game containers into native iOS/iPadOS apps on device | `0.1.1-beta` | iOS 15.0 |
 | Nuvio | Open-source media client for your own sources | `1.0.1` | iOS 16.1 |
 | Opaline | YouTube client for iOS 12+ | `1.12.0` | iOS 12.0 |
-| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.10` | iOS 15.0 |
+| Open Screen Sharing | Remote desktop client optimized for Mac screen sharing | `1.0.11` | iOS 15.0 |
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
 | Orca | iPhone client for Orca, the agent development environment | `0.1.4` | iOS 26.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
@@ -106,10 +106,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.5.0` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
+| RepoPocket | 在 iPhone、iPad 上浏览 GitHub 与管理 Git 项目 | `1.2.8` | iOS 15.0 |
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.11` | iOS 18.0 |
 | Rich4Renew | 大富翁4 高清重制版，新增歌舞伎町地图与大富豪模式 | `1.3.0` | iOS 15.0 |
 | Rush Hours | Slide the cars, free the red one. | `2.2.2` | iOS 16.4 |
-| RyukSign | On-device iOS app signer and installer | `4.1.0` | iOS 16.0 |
+| RyukSign | On-device iOS app signer and installer | `4.2.0` | iOS 16.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
 | Shirox | Personal anime and manga library manager for iOS | `1.0.6` | iOS 15.0 |
 | SideStore | Untethered alternative app store for iOS | `0.7.0-20260911.328+6032424a` | iOS 15.0 |

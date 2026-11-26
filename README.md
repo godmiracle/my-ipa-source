@@ -90,7 +90,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mori | Client-side media downloader for 16 platforms | `4.6.1` | iOS 14.0 |
 | Mornye | Hi-res music player with downloads | `5.4.5` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.4` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.6` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | NusaNX | Convert Switch game containers into native iOS/iPadOS apps on device | `0.1.1-beta` | iOS 15.0 |
@@ -127,11 +127,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | UTM | Virtual machines for iOS | `5.0.9-2` | iOS 14.0 |
 | VeneraNext | 跨平台漫画阅读器 | `1.18.5` | iOS 14.0 |
 | VRCM | Bring your VRChat social life to your phone | `1.1.6` | iOS 15.3 |
-| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.20` | iOS 26.0 |
+| WQ Files | File manager for iOS 26 and 27 (worse_query) | `0.9.30` | iOS 26.0 |
 | WQGuard | iOS 沙盒越权检测与侧载 IPA 审查工具 | `1.3.6` | iOS 16.0 |
 | WQManager | 无需越狱的 App 数据备份与缓存清理工具 | `0.5` | iOS 26.0 |
 | WQToolkit | File browser and maintenance panel for your own app containers | `1.0` | iOS 27.0 |
-| WrapPin | 本机虚拟定位与步行路线测试工具 | `1.0.26` | iOS 18.0 |
+| WrapPin | 本机虚拟定位与步行路线测试工具 | `1.0.27` | iOS 18.0 |
 | YouProEXTRA | YouTube mod with customizable tweaks | `21.33.6` | iOS 16.0 |
 | ZhihuMinusMinus | 轻量、纯净的第三方知乎客户端 | `0.10.1` | iOS 15.1 |
 | Pikapika | 跨平台漫画浏览器，支持 iOS、Android、macOS、Windows 和 Linux | `1.8.27` | iOS 12.0 |

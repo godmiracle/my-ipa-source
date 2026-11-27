@@ -26,10 +26,11 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **107** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **116** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
+| Account Atlas | 记录邮箱和手机号绑定的各类账号 | `2.5` | iOS 17.0 |
 | Aidoku | Free and open source manga reader for iOS and iPadOS | `0.9` | iOS 15.0 |
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
@@ -46,13 +47,17 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | BiliSponsorBlock | 官方哔哩哔哩 iOS App 的 SponsorBlock 空降助手插件 | `9.10.0` | iOS 15.0 |
 | BitChord | Open-source YouTube Music client for iPhone and iPad | `1.0.2` | iOS 17.0 |
 | Breeze | 使用 Flutter 开发的插件化漫画阅读器 | `3.1.0` | iOS 15.0 |
+| Camlo | 开幕 · 零门槛「滑动解锁变身 + 动态锁屏」壁纸工坊 | `1.3.4` | iOS 26.0 |
 | Chance | Imageboard browser for iOS and Android | `1.2.9` | iOS 15.0 |
+| cilicili | 使用 SwiftUI 开发的哔哩哔哩第三方客户端 | `1.1.8` | iOS 26.1 |
 | Cloudn | 网盘分享与短视频高速解析下载 | `1.4.2` | iOS 17.0 |
+| CoolapkDesktop | 非官方酷安第三方客户端 | `1.48.0` | iOS 14.0 |
 | D2R Mobile | Play Diablo II: Resurrected on iPhone and iPad | `1.0` | iOS 26.0 |
 | Dartotsu | Multiplatform anime and manga tracking client | `1.2.2` | iOS 15.0 |
 | DLiPA | Download, install and share App Store IPAs | `1.4` | iOS 13.0 |
 | Doer | A native iOS client for Linux.do | `1.8.8.1` | iOS 15.0 |
 | DolphiniOS | GameCube and Wii emulator for iOS/iPadOS | `5.0.0b6` | iOS 14.0 |
+| DouDuo | 原生 SwiftUI 第三方抖音客户端，适配折叠屏与 iPad | `1.7.5` | iOS 26.0 |
 | DukeX | Original Xbox emulation for iOS | `1.0.2` | iOS 16.0 |
 | Dusklight | A native port of a classic adventure | `2.0.3` | iOS 14.0 |
 | Dylix | iPhone / iPad 上的 AI 插件开发工作台 | `1.1.4` | iOS 15.0 |
@@ -65,6 +70,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | GestaltX | MobileGestalt editor for iOS 27 with region-code tweaks and presets | `1.1.1` | iOS 26.0 |
 | Ghost Remote | Open terminals on your other iGhostVT devices | `1.6.41` | iOS 15.0 |
 | GlobalRefresh | 基于 iOS 画中画的悬浮窗高刷辅助工具 | `1.1.2` | iOS 15.0 |
+| GuoDuo | 原生 SwiftUI 红果短剧客户端，适配折叠屏与 iPad | `1.0.1` | iOS 18.4 |
 | HermesEnabler | Enable Hermès Watch Faces on any Apple Watch | `1.0` | iOS 17.0 |
 | Husk | Android app launcher for iOS | `3.4` | iOS 16.4 |
 | iBuilder | Switch games, built on your iPhone | `0.1.8` | iOS 26.0 |
@@ -73,11 +79,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | iRAM+ | Enable Increased Memory Limit for sideloaded apps on device | `1.3.1` | iOS 16.0 |
 | Iridium | Experimental Windows-game runtime for iPhone and iPad | `0.2.0` | iOS 18.0 |
 | iTorrent | Torrent client for iOS | `2.2.0-1` | iOS 16.0 |
+| i短剧 | 免费开源的多源短剧/视频/漫画/Telegram 聚合播放器 | `1.6b41` | iOS 16.0 |
 | Kazumi | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 Flutter 实现。 | `2.4.7` | iOS 13.0 |
 | Kazumi-Swift | 基于自定义规则的番剧采集APP，支持流媒体在线观看、弹幕与实时超分辨率，使用 SwiftUI 实现。 | `3.1.3` | iOS 26.0 |
 | KMusic | 基于 SwiftUI 的多源音乐聚合播放器 | `2.3.0` | iOS 14.0 |
 | Kumone | 原生 NetEase Cloud Music iOS 客户端（雲の音） | `0.3.38` | iOS 16.0 |
 | LightNovelShelf | 轻书架官方 Flutter 客户端 | `1.13.3` | iOS 15.0 |
+| LiLite | 轻盈顺滑的第三方哔哩哔哩客户端 | `1.0.42` | iOS 17.0 |
 | LinuxRunner | Run ARM64 Linux apps and desktops on iOS | `1.0.1` | iOS 15.0 |
 | LiveContainer+SideStore | Run iOS apps without actually installing them! | `3.8.14` | iOS 15.0 |
 | LSX4 | Open-source PS4/PS5 emulator | `128.9934` | iOS 26.0 |
@@ -90,7 +98,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mori | Client-side media downloader for 16 platforms | `4.6.1` | iOS 14.0 |
 | Mornye | Hi-res music player with downloads | `5.4.5` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.8` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.10` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | NusaNX | Convert Switch game containers into native iOS/iPadOS apps on device | `0.1.1-beta` | iOS 15.0 |
@@ -100,12 +108,13 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | OpenParsec | Open Parsec client for iOS/iPadOS | `2.0.0` | iOS 14.0 |
 | Orca | iPhone client for Orca, the agent development environment | `0.1.4` | iOS 26.0 |
 | Orchard | Apple Silicon macOS Ventura running inside an iPhone app | `0.2` | iOS 16.0 |
-| Photos Backup | On-device Google Photos backup | `0.3.8` | iOS 15.0 |
+| Photos Backup | On-device Google Photos backup | `0.4.1` | iOS 15.0 |
 | PiliPlus | 使用Flutter开发的BiliBili第三方客户端 | `2.2.1` | iOS 14.0 |
 | Pixiv-SwiftUI | 基于 SwiftUI 的 Pixiv 第三方客户端 | `0.16.3` | iOS 17.0 |
 | Playport | PC games on your iPhone. Natively, no streaming. | `0.5.0` | iOS 26.0 |
 | PSX3IOS | PlayStation 3 emulator for iPhone and iPad | `0.2.7-beta` | iOS 15.0 |
 | PureLive | 基于 Flutter 的开源多平台直播聚合播放器 | `3.1.19` | iOS 15.6 |
+| Reloc | 面向 iPhone 的外设级定位模拟工具 | `1.0.4` | iOS 17.0 |
 | RepoPocket | 在 iPhone、iPad 上浏览 GitHub 与管理 Git 项目 | `1.2.8` | iOS 15.0 |
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.11` | iOS 18.0 |
 | Rich4Renew | 大富翁4 高清重制版，新增歌舞伎町地图与大富豪模式 | `1.3.0` | iOS 15.0 |

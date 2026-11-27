@@ -26,7 +26,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 已配置的 GitHub Releases 仓库同步而变化。
 
 <!-- BEGIN GENERATED APP LIST -->
-当前源收录 **106** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
+当前源收录 **107** 个应用；版本信息来自 AltGallery 与已配置的 GitHub Releases 仓库。
 
 | 应用 | 简介 | 当前版本 | 最低系统 |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | AirCard-iOS | iOS 钱包卡面、锁屏密码键盘与墙纸主题工具 | `1.3.2` | iOS 27.0 |
 | AltStore | Sideload non-notarized apps with AltServer. | `2.3.1` | iOS 17.4 |
 | AniBaka | 跨平台番剧聚合、媒体播放与弹幕客户端 | `5.2.5` | iOS 13.0 |
-| AniCh | 支持超分辨率的在线动漫弹幕播放器 | `1.5.27` | iOS 12.0 |
+| AniCh | 支持超分辨率的在线动漫弹幕播放器 | `1.5.28` | iOS 12.0 |
 | AnimeFlow | 跨平台动漫视频播放器，支持多数据源、实时 4K 超分辨率与弹幕 | `2.7.0` | iOS 15.0 |
 | Animeko | 一站式弹幕追番平台 | `6.4.1` | iOS 14.0 |
 | Apollo for Reddit - GLASS | Apollo-Reborn build with Liquid Glass patch | `4.1.0` | iOS 未声明 |
@@ -90,7 +90,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | MiniWatts | Battery, charging and thermal instrument | `1.7.0` | iOS 17.0 |
 | Mori | Client-side media downloader for 16 platforms | `4.6.1` | iOS 14.0 |
 | Mornye | Hi-res music player with downloads | `5.4.5` | iOS 16.0 |
-| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.6` | iOS 17.0 |
+| MoviePilot | MoviePilot 的 iOS 原生客户端 | `2.0.8` | iOS 17.0 |
 | MoviePilotLite | MoviePilot 移动端，基于 Flutter 实现 | `1.3.3` | iOS 15.0 |
 | Musly | Free Navidrome client & Subsonic music player | `2.0.3` | iOS 15.0 |
 | NusaNX | Convert Switch game containers into native iOS/iPadOS apps on device | `0.1.1-beta` | iOS 15.0 |
@@ -109,6 +109,7 @@ livecontainer://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodmiracle%
 | RepoPocket | 在 iPhone、iPad 上浏览 GitHub 与管理 Git 项目 | `1.2.8` | iOS 15.0 |
 | RewindBox | Emulation frontend for iPhone and iPad | `0.0.11` | iOS 18.0 |
 | Rich4Renew | 大富翁4 高清重制版，新增歌舞伎町地图与大富豪模式 | `1.3.0` | iOS 15.0 |
+| Roam Control | Choose, test and move your iPhone's reported location | `0.9.9` | iOS 27.0 |
 | Rush Hours | Slide the cars, free the red one. | `2.2.2` | iOS 16.4 |
 | RyukSign | On-device iOS app signer and installer | `4.2.0` | iOS 16.0 |
 | SceneBox | Torrent streaming client | `1.0.4` | iOS 18.0 |
